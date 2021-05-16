@@ -1,0 +1,21 @@
+{
+  "unversionedId": "typescript-basics",
+  "id": "typescript-basics",
+  "isDocsHomePage": false,
+  "title": "Create a Blog Post",
+  "description": "This page will help you on how to create blog posts in Docusaurus.",
+  "source": "@site/docs/typescript-basics.md",
+  "slug": "/typescript-basics",
+  "permalink": "/docs/typescript-basics",
+  "editUrl": "https://github.com/EliasRut/Vector-Monkeys-Coding-Dojo/edit/master/website/docs/typescript-basics.md",
+  "version": "current",
+  "sidebar": "docs",
+  "previous": {
+    "title": "JavaScript Basics",
+    "permalink": "/docs/javascript-basics"
+  },
+  "next": {
+    "title": "Create a Blog Post",
+    "permalink": "/docs/next-steps"
+  }
+}

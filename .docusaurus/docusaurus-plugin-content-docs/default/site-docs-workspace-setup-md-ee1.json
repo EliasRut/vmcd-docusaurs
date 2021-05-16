@@ -1,0 +1,17 @@
+{
+  "unversionedId": "workspace-setup",
+  "id": "workspace-setup",
+  "isDocsHomePage": false,
+  "title": "Workspace Setup",
+  "description": "To make starting out with programming easier, we encourage a somewhat unified workspace setup.",
+  "source": "@site/docs/workspace-setup.md",
+  "slug": "/",
+  "permalink": "/docs/",
+  "editUrl": "https://github.com/EliasRut/Vector-Monkeys-Coding-Dojo/edit/master/website/docs/workspace-setup.md",
+  "version": "current",
+  "sidebar": "docs",
+  "next": {
+    "title": "Step by Step Guide",
+    "permalink": "/docs/step-by-step-guide"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "unversionedId": "step-by-step-guide",
+  "id": "step-by-step-guide",
+  "isDocsHomePage": false,
+  "title": "Step by Step Guide",
+  "description": "For now we only have guides for Windows 10, MacOs and Linux (Ubuntu to be precise). If you are running",
+  "source": "@site/docs/step-by-step-guide.md",
+  "slug": "/step-by-step-guide",
+  "permalink": "/docs/step-by-step-guide",
+  "editUrl": "https://github.com/EliasRut/Vector-Monkeys-Coding-Dojo/edit/master/website/docs/step-by-step-guide.md",
+  "version": "current",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Workspace Setup",
+    "permalink": "/docs/"
+  },
+  "next": {
+    "title": "Create a Document",
+    "permalink": "/docs/webdesign-basics"
+  }
+}

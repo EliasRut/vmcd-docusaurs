@@ -1,0 +1,12 @@
+{
+  "unversionedId": "markdown-features",
+  "id": "markdown-features",
+  "isDocsHomePage": false,
+  "title": "Markdown Features",
+  "description": "Docusaurus supports the Markdown syntax and has some additional features.",
+  "source": "@site/docs/markdown-features.mdx",
+  "slug": "/markdown-features",
+  "permalink": "/docs/markdown-features",
+  "editUrl": "https://github.com/EliasRut/Vector-Monkeys-Coding-Dojo/edit/master/website/docs/markdown-features.mdx",
+  "version": "current"
+}

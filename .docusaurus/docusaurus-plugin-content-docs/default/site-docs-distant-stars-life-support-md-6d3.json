@@ -1,0 +1,21 @@
+{
+  "unversionedId": "distant-stars-life-support",
+  "id": "distant-stars-life-support",
+  "isDocsHomePage": false,
+  "title": "Chapter 2 - Life Support",
+  "description": "In this chapter, you will get your life support systems online by implementing some simple",
+  "source": "@site/docs/distant-stars-life-support.md",
+  "slug": "/distant-stars-life-support",
+  "permalink": "/docs/distant-stars-life-support",
+  "editUrl": "https://github.com/EliasRut/Vector-Monkeys-Coding-Dojo/edit/master/website/docs/distant-stars-life-support.md",
+  "version": "current",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Chapter 1 - Bridge Control",
+    "permalink": "/docs/distant-stars-bridge-control"
+  },
+  "next": {
+    "title": "Chapter 3 - Main Reactor",
+    "permalink": "/docs/distant-stars-main-reactor"
+  }
+}

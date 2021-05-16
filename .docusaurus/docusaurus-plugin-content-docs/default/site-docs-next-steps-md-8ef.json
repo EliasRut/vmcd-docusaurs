@@ -1,0 +1,21 @@
+{
+  "unversionedId": "next-steps",
+  "id": "next-steps",
+  "isDocsHomePage": false,
+  "title": "Create a Blog Post",
+  "description": "This page will help you on how to create blog posts in Docusaurus.",
+  "source": "@site/docs/next-steps.md",
+  "slug": "/next-steps",
+  "permalink": "/docs/next-steps",
+  "editUrl": "https://github.com/EliasRut/Vector-Monkeys-Coding-Dojo/edit/master/website/docs/next-steps.md",
+  "version": "current",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Create a Blog Post",
+    "permalink": "/docs/typescript-basics"
+  },
+  "next": {
+    "title": "Story",
+    "permalink": "/docs/distant-stars-story"
+  }
+}

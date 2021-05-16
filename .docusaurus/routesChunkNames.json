@@ -1,0 +1,177 @@
+{
+  "/-deb": {
+    "component": "component---site-src-pages-index-jsc-4-f-f99",
+    "config": "config---5-e-9-4f3"
+  },
+  "/__docusaurus/debug-3d6": {
+    "component": "component---theme-debug-config-23-a-2ff"
+  },
+  "/__docusaurus/debug/config-914": {
+    "component": "component---theme-debug-config-23-a-2ff"
+  },
+  "/__docusaurus/debug/content-c28": {
+    "component": "component---theme-debug-contentba-8-ce7",
+    "allContent": "allContent---docusaurus-debug-content-246-9aa"
+  },
+  "/__docusaurus/debug/globalData-3cf": {
+    "component": "component---theme-debug-global-dataede-0fa"
+  },
+  "/__docusaurus/debug/metadata-31b": {
+    "component": "component---theme-debug-site-metadata-68-e-3d4"
+  },
+  "/__docusaurus/debug/registry-0da": {
+    "component": "component---theme-debug-registry-679-501"
+  },
+  "/__docusaurus/debug/routes-244": {
+    "component": "component---theme-debug-routes-946-699"
+  },
+  "/blog-683": {
+    "component": "component---theme-blog-list-pagea-6-a-7ba",
+    "sidebar": "sidebar---blogb-4-d-c24",
+    "items": [
+      {
+        "content": "content---blogaf-1-856"
+      },
+      {
+        "content": "content---blog-357-22b"
+      },
+      {
+        "content": "content---blog-8-e-9-35c"
+      }
+    ],
+    "metadata": "metadata---blogb-2-b-df1"
+  },
+  "/blog/hello-world-79c": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blogb-4-d-c24",
+    "content": "content---blog-hello-worldd-61-086"
+  },
+  "/blog/hola-597": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blogb-4-d-c24",
+    "content": "content---blog-holabdd-150"
+  },
+  "/blog/tags-7e7": {
+    "component": "component---theme-blog-tags-list-page-01-a-d0b",
+    "sidebar": "sidebar---blogb-4-d-c24",
+    "tags": "tags---blog-tagsa-70-da2"
+  },
+  "/blog/tags/docusaurus-240": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---blogb-4-d-c24",
+    "items": [
+      {
+        "content": "content---blogaf-1-856"
+      },
+      {
+        "content": "content---blog-357-22b"
+      },
+      {
+        "content": "content---blog-8-e-9-35c"
+      }
+    ],
+    "metadata": "metadata---blog-tags-docusaurusa-80-728"
+  },
+  "/blog/tags/facebook-466": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---blogb-4-d-c24",
+    "items": [
+      {
+        "content": "content---blogaf-1-856"
+      }
+    ],
+    "metadata": "metadata---blog-tags-facebook-031-c52"
+  },
+  "/blog/tags/hello-5db": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---blogb-4-d-c24",
+    "items": [
+      {
+        "content": "content---blogaf-1-856"
+      },
+      {
+        "content": "content---blog-357-22b"
+      }
+    ],
+    "metadata": "metadata---blog-tags-hello-30-a-bed"
+  },
+  "/blog/tags/hola-7dd": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---blogb-4-d-c24",
+    "items": [
+      {
+        "content": "content---blog-8-e-9-35c"
+      }
+    ],
+    "metadata": "metadata---blog-tags-holae-16-18a"
+  },
+  "/blog/welcome-592": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blogb-4-d-c24",
+    "content": "content---blog-welcome-286-e55"
+  },
+  "/mission-statement-d62": {
+    "component": "component---theme-mdx-page-1-f-3-b90",
+    "content": "content---mission-statementf-28-8b3"
+  },
+  "/monkeys-31d": {
+    "component": "component---site-src-pages-monkeys-js-8-d-4-eb6",
+    "config": "config---5-e-9-4f3"
+  },
+  "/projects-51a": {
+    "component": "component---site-src-pages-projects-jsee-7-a5f",
+    "config": "config---5-e-9-4f3"
+  },
+  "/docs-fd5": {
+    "component": "component---theme-doc-page-1-be-9be",
+    "versionMetadata": "versionMetadata---docs-935-398"
+  },
+  "/docs/-929": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-ee-1-3e9"
+  },
+  "/docs/distant-stars-bridge-control-d41": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-distant-stars-bridge-controlbc-3-8de"
+  },
+  "/docs/distant-stars-introduction-8fc": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-distant-stars-introduction-9-b-6-4cb"
+  },
+  "/docs/distant-stars-life-support-d0a": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-distant-stars-life-support-6-d-3-9ad"
+  },
+  "/docs/distant-stars-main-reactor-dc3": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-distant-stars-main-reactorc-66-3c2"
+  },
+  "/docs/distant-stars-story-6dd": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-distant-stars-storyb-55-096"
+  },
+  "/docs/javascript-basics-4a4": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-javascript-basics-931-050"
+  },
+  "/docs/markdown-features-f04": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-markdown-featuresbed-cfa"
+  },
+  "/docs/next-steps-e83": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-next-steps-8-ef-f33"
+  },
+  "/docs/step-by-step-guide-988": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-step-by-step-guide-53-f-baf"
+  },
+  "/docs/typescript-basics-cbd": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-typescript-basicsc-95-b77"
+  },
+  "/docs/webdesign-basics-aa9": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-webdesign-basics-50-d-6f3"
+  }
+}

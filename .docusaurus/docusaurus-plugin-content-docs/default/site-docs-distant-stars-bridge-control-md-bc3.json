@@ -1,0 +1,21 @@
+{
+  "unversionedId": "distant-stars-bridge-control",
+  "id": "distant-stars-bridge-control",
+  "isDocsHomePage": false,
+  "title": "Chapter 1 - Bridge Control",
+  "description": "In this chapter, you will get your bridge computer online and bring it up to date with some basic",
+  "source": "@site/docs/distant-stars-bridge-control.md",
+  "slug": "/distant-stars-bridge-control",
+  "permalink": "/docs/distant-stars-bridge-control",
+  "editUrl": "https://github.com/EliasRut/Vector-Monkeys-Coding-Dojo/edit/master/website/docs/distant-stars-bridge-control.md",
+  "version": "current",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/docs/distant-stars-introduction"
+  },
+  "next": {
+    "title": "Chapter 2 - Life Support",
+    "permalink": "/docs/distant-stars-life-support"
+  }
+}

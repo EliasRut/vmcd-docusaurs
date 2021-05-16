@@ -1,0 +1,17 @@
+{
+  "unversionedId": "distant-stars-main-reactor",
+  "id": "distant-stars-main-reactor",
+  "isDocsHomePage": false,
+  "title": "Chapter 3 - Main Reactor",
+  "description": "In this chapter, you will get your main reactor systems online by combining your knowledge about",
+  "source": "@site/docs/distant-stars-main-reactor.md",
+  "slug": "/distant-stars-main-reactor",
+  "permalink": "/docs/distant-stars-main-reactor",
+  "editUrl": "https://github.com/EliasRut/Vector-Monkeys-Coding-Dojo/edit/master/website/docs/distant-stars-main-reactor.md",
+  "version": "current",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Chapter 2 - Life Support",
+    "permalink": "/docs/distant-stars-life-support"
+  }
+}

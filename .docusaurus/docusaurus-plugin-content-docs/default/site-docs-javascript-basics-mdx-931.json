@@ -1,0 +1,21 @@
+{
+  "unversionedId": "javascript-basics",
+  "id": "javascript-basics",
+  "isDocsHomePage": false,
+  "title": "JavaScript Basics",
+  "description": "Building blocks of (almost) every programming language",
+  "source": "@site/docs/javascript-basics.mdx",
+  "slug": "/javascript-basics",
+  "permalink": "/docs/javascript-basics",
+  "editUrl": "https://github.com/EliasRut/Vector-Monkeys-Coding-Dojo/edit/master/website/docs/javascript-basics.mdx",
+  "version": "current",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Create a Document",
+    "permalink": "/docs/webdesign-basics"
+  },
+  "next": {
+    "title": "Create a Blog Post",
+    "permalink": "/docs/typescript-basics"
+  }
+}

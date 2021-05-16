@@ -1,0 +1,21 @@
+{
+  "unversionedId": "distant-stars-introduction",
+  "id": "distant-stars-introduction",
+  "isDocsHomePage": false,
+  "title": "Introduction",
+  "description": "In this part of the course, we will set up your local development environment so that you are ready",
+  "source": "@site/docs/distant-stars-introduction.md",
+  "slug": "/distant-stars-introduction",
+  "permalink": "/docs/distant-stars-introduction",
+  "editUrl": "https://github.com/EliasRut/Vector-Monkeys-Coding-Dojo/edit/master/website/docs/distant-stars-introduction.md",
+  "version": "current",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Story",
+    "permalink": "/docs/distant-stars-story"
+  },
+  "next": {
+    "title": "Chapter 1 - Bridge Control",
+    "permalink": "/docs/distant-stars-bridge-control"
+  }
+}

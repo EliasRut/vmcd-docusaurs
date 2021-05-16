@@ -1,0 +1,92 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "isLast": true,
+  "docsSidebars": {
+    "docs": [
+      {
+        "collapsed": true,
+        "type": "category",
+        "label": "Getting Started",
+        "items": [
+          {
+            "type": "link",
+            "label": "Workspace Setup",
+            "href": "/docs/"
+          },
+          {
+            "type": "link",
+            "label": "Step by Step Guide",
+            "href": "/docs/step-by-step-guide"
+          },
+          {
+            "type": "link",
+            "label": "Create a Document",
+            "href": "/docs/webdesign-basics"
+          },
+          {
+            "type": "link",
+            "label": "JavaScript Basics",
+            "href": "/docs/javascript-basics"
+          },
+          {
+            "type": "link",
+            "label": "Create a Blog Post",
+            "href": "/docs/typescript-basics"
+          },
+          {
+            "type": "link",
+            "label": "Create a Blog Post",
+            "href": "/docs/next-steps"
+          }
+        ]
+      },
+      {
+        "collapsed": true,
+        "type": "category",
+        "label": "Exercises: Distant Stars",
+        "items": [
+          {
+            "type": "link",
+            "label": "Story",
+            "href": "/docs/distant-stars-story"
+          },
+          {
+            "type": "link",
+            "label": "Introduction",
+            "href": "/docs/distant-stars-introduction"
+          },
+          {
+            "type": "link",
+            "label": "Chapter 1 - Bridge Control",
+            "href": "/docs/distant-stars-bridge-control"
+          },
+          {
+            "type": "link",
+            "label": "Chapter 2 - Life Support",
+            "href": "/docs/distant-stars-life-support"
+          },
+          {
+            "type": "link",
+            "label": "Chapter 3 - Main Reactor",
+            "href": "/docs/distant-stars-main-reactor"
+          }
+        ]
+      }
+    ]
+  },
+  "permalinkToSidebar": {
+    "/docs/distant-stars-bridge-control": "docs",
+    "/docs/distant-stars-introduction": "docs",
+    "/docs/distant-stars-life-support": "docs",
+    "/docs/distant-stars-main-reactor": "docs",
+    "/docs/distant-stars-story": "docs",
+    "/docs/javascript-basics": "docs",
+    "/docs/next-steps": "docs",
+    "/docs/step-by-step-guide": "docs",
+    "/docs/typescript-basics": "docs",
+    "/docs/webdesign-basics": "docs",
+    "/docs/": "docs"
+  }
+}

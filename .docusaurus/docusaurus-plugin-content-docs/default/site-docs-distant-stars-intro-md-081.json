@@ -1,0 +1,12 @@
+{
+  "unversionedId": "distant-stars-intro",
+  "id": "distant-stars-intro",
+  "isDocsHomePage": false,
+  "title": "Introduction",
+  "description": "Distant Stars - Introduction",
+  "source": "@site/docs/distant-stars-intro.md",
+  "slug": "/distant-stars-intro",
+  "permalink": "/docs/distant-stars-intro",
+  "editUrl": "https://github.com/EliasRut/Vector-Monkeys-Coding-Dojo/edit/master/website/docs/distant-stars-intro.md",
+  "version": "current"
+}

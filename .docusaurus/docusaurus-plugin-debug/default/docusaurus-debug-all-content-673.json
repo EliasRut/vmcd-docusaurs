@@ -1,0 +1,515 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "versionLabel": "Next",
+          "versionPath": "/docs",
+          "versionEditUrl": "https://github.com/EliasRut/Vector-Monkeys-Coding-Dojo/edit/master/website/docs",
+          "versionEditUrlLocalized": "https://github.com/EliasRut/Vector-Monkeys-Coding-Dojo/edit/master/website/i18n/en/docusaurus-plugin-content-docs/current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "/home/elias/Code/vmcd-docusaurus/sidebars.js",
+          "contentPath": "/home/elias/Code/vmcd-docusaurus/docs",
+          "contentPathLocalized": "/home/elias/Code/vmcd-docusaurus/i18n/en/docusaurus-plugin-content-docs/current",
+          "mainDocId": "workspace-setup",
+          "sidebars": {
+            "docs": [
+              {
+                "collapsed": true,
+                "type": "category",
+                "label": "Getting Started",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "workspace-setup"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "step-by-step-guide"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "webdesign-basics"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "javascript-basics"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "typescript-basics"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "next-steps"
+                  }
+                ]
+              },
+              {
+                "collapsed": true,
+                "type": "category",
+                "label": "Exercises: Distant Stars",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "distant-stars-story"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "distant-stars-introduction"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "distant-stars-bridge-control"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "distant-stars-life-support"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "distant-stars-main-reactor"
+                  }
+                ]
+              }
+            ]
+          },
+          "permalinkToSidebar": {
+            "/docs/distant-stars-bridge-control": "docs",
+            "/docs/distant-stars-introduction": "docs",
+            "/docs/distant-stars-life-support": "docs",
+            "/docs/distant-stars-main-reactor": "docs",
+            "/docs/distant-stars-story": "docs",
+            "/docs/javascript-basics": "docs",
+            "/docs/next-steps": "docs",
+            "/docs/step-by-step-guide": "docs",
+            "/docs/typescript-basics": "docs",
+            "/docs/webdesign-basics": "docs",
+            "/docs/": "docs"
+          },
+          "docs": [
+            {
+              "unversionedId": "distant-stars-bridge-control",
+              "id": "distant-stars-bridge-control",
+              "isDocsHomePage": false,
+              "title": "Chapter 1 - Bridge Control",
+              "description": "In this chapter, you will get your bridge computer online and bring it up to date with some basic",
+              "source": "@site/docs/distant-stars-bridge-control.md",
+              "slug": "/distant-stars-bridge-control",
+              "permalink": "/docs/distant-stars-bridge-control",
+              "editUrl": "https://github.com/EliasRut/Vector-Monkeys-Coding-Dojo/edit/master/website/docs/distant-stars-bridge-control.md",
+              "version": "current",
+              "sidebar": "docs",
+              "previous": {
+                "title": "Introduction",
+                "permalink": "/docs/distant-stars-introduction"
+              },
+              "next": {
+                "title": "Chapter 2 - Life Support",
+                "permalink": "/docs/distant-stars-life-support"
+              }
+            },
+            {
+              "unversionedId": "distant-stars-introduction",
+              "id": "distant-stars-introduction",
+              "isDocsHomePage": false,
+              "title": "Introduction",
+              "description": "In this part of the course, we will set up your local development environment so that you are ready",
+              "source": "@site/docs/distant-stars-introduction.md",
+              "slug": "/distant-stars-introduction",
+              "permalink": "/docs/distant-stars-introduction",
+              "editUrl": "https://github.com/EliasRut/Vector-Monkeys-Coding-Dojo/edit/master/website/docs/distant-stars-introduction.md",
+              "version": "current",
+              "sidebar": "docs",
+              "previous": {
+                "title": "Story",
+                "permalink": "/docs/distant-stars-story"
+              },
+              "next": {
+                "title": "Chapter 1 - Bridge Control",
+                "permalink": "/docs/distant-stars-bridge-control"
+              }
+            },
+            {
+              "unversionedId": "distant-stars-life-support",
+              "id": "distant-stars-life-support",
+              "isDocsHomePage": false,
+              "title": "Chapter 2 - Life Support",
+              "description": "In this chapter, you will get your life support systems online by implementing some simple",
+              "source": "@site/docs/distant-stars-life-support.md",
+              "slug": "/distant-stars-life-support",
+              "permalink": "/docs/distant-stars-life-support",
+              "editUrl": "https://github.com/EliasRut/Vector-Monkeys-Coding-Dojo/edit/master/website/docs/distant-stars-life-support.md",
+              "version": "current",
+              "sidebar": "docs",
+              "previous": {
+                "title": "Chapter 1 - Bridge Control",
+                "permalink": "/docs/distant-stars-bridge-control"
+              },
+              "next": {
+                "title": "Chapter 3 - Main Reactor",
+                "permalink": "/docs/distant-stars-main-reactor"
+              }
+            },
+            {
+              "unversionedId": "distant-stars-main-reactor",
+              "id": "distant-stars-main-reactor",
+              "isDocsHomePage": false,
+              "title": "Chapter 3 - Main Reactor",
+              "description": "In this chapter, you will get your main reactor systems online by combining your knowledge about",
+              "source": "@site/docs/distant-stars-main-reactor.md",
+              "slug": "/distant-stars-main-reactor",
+              "permalink": "/docs/distant-stars-main-reactor",
+              "editUrl": "https://github.com/EliasRut/Vector-Monkeys-Coding-Dojo/edit/master/website/docs/distant-stars-main-reactor.md",
+              "version": "current",
+              "sidebar": "docs",
+              "previous": {
+                "title": "Chapter 2 - Life Support",
+                "permalink": "/docs/distant-stars-life-support"
+              }
+            },
+            {
+              "unversionedId": "distant-stars-story",
+              "id": "distant-stars-story",
+              "isDocsHomePage": false,
+              "title": "Story",
+              "description": "Distant Stars - A scifi coding problem story",
+              "source": "@site/docs/distant-stars-story.md",
+              "slug": "/distant-stars-story",
+              "permalink": "/docs/distant-stars-story",
+              "editUrl": "https://github.com/EliasRut/Vector-Monkeys-Coding-Dojo/edit/master/website/docs/distant-stars-story.md",
+              "version": "current",
+              "sidebar": "docs",
+              "previous": {
+                "title": "Create a Blog Post",
+                "permalink": "/docs/next-steps"
+              },
+              "next": {
+                "title": "Introduction",
+                "permalink": "/docs/distant-stars-introduction"
+              }
+            },
+            {
+              "unversionedId": "javascript-basics",
+              "id": "javascript-basics",
+              "isDocsHomePage": false,
+              "title": "JavaScript Basics",
+              "description": "Building blocks of (almost) every programming language",
+              "source": "@site/docs/javascript-basics.mdx",
+              "slug": "/javascript-basics",
+              "permalink": "/docs/javascript-basics",
+              "editUrl": "https://github.com/EliasRut/Vector-Monkeys-Coding-Dojo/edit/master/website/docs/javascript-basics.mdx",
+              "version": "current",
+              "sidebar": "docs",
+              "previous": {
+                "title": "Create a Document",
+                "permalink": "/docs/webdesign-basics"
+              },
+              "next": {
+                "title": "Create a Blog Post",
+                "permalink": "/docs/typescript-basics"
+              }
+            },
+            {
+              "unversionedId": "markdown-features",
+              "id": "markdown-features",
+              "isDocsHomePage": false,
+              "title": "Markdown Features",
+              "description": "Docusaurus supports the Markdown syntax and has some additional features.",
+              "source": "@site/docs/markdown-features.mdx",
+              "slug": "/markdown-features",
+              "permalink": "/docs/markdown-features",
+              "editUrl": "https://github.com/EliasRut/Vector-Monkeys-Coding-Dojo/edit/master/website/docs/markdown-features.mdx",
+              "version": "current"
+            },
+            {
+              "unversionedId": "next-steps",
+              "id": "next-steps",
+              "isDocsHomePage": false,
+              "title": "Create a Blog Post",
+              "description": "This page will help you on how to create blog posts in Docusaurus.",
+              "source": "@site/docs/next-steps.md",
+              "slug": "/next-steps",
+              "permalink": "/docs/next-steps",
+              "editUrl": "https://github.com/EliasRut/Vector-Monkeys-Coding-Dojo/edit/master/website/docs/next-steps.md",
+              "version": "current",
+              "sidebar": "docs",
+              "previous": {
+                "title": "Create a Blog Post",
+                "permalink": "/docs/typescript-basics"
+              },
+              "next": {
+                "title": "Story",
+                "permalink": "/docs/distant-stars-story"
+              }
+            },
+            {
+              "unversionedId": "step-by-step-guide",
+              "id": "step-by-step-guide",
+              "isDocsHomePage": false,
+              "title": "Step by Step Guide",
+              "description": "For now we only have guides for Windows 10, MacOs and Linux (Ubuntu to be precise). If you are running",
+              "source": "@site/docs/step-by-step-guide.md",
+              "slug": "/step-by-step-guide",
+              "permalink": "/docs/step-by-step-guide",
+              "editUrl": "https://github.com/EliasRut/Vector-Monkeys-Coding-Dojo/edit/master/website/docs/step-by-step-guide.md",
+              "version": "current",
+              "sidebar": "docs",
+              "previous": {
+                "title": "Workspace Setup",
+                "permalink": "/docs/"
+              },
+              "next": {
+                "title": "Create a Document",
+                "permalink": "/docs/webdesign-basics"
+              }
+            },
+            {
+              "unversionedId": "typescript-basics",
+              "id": "typescript-basics",
+              "isDocsHomePage": false,
+              "title": "Create a Blog Post",
+              "description": "This page will help you on how to create blog posts in Docusaurus.",
+              "source": "@site/docs/typescript-basics.md",
+              "slug": "/typescript-basics",
+              "permalink": "/docs/typescript-basics",
+              "editUrl": "https://github.com/EliasRut/Vector-Monkeys-Coding-Dojo/edit/master/website/docs/typescript-basics.md",
+              "version": "current",
+              "sidebar": "docs",
+              "previous": {
+                "title": "JavaScript Basics",
+                "permalink": "/docs/javascript-basics"
+              },
+              "next": {
+                "title": "Create a Blog Post",
+                "permalink": "/docs/next-steps"
+              }
+            },
+            {
+              "unversionedId": "webdesign-basics",
+              "id": "webdesign-basics",
+              "isDocsHomePage": false,
+              "title": "Create a Document",
+              "description": "Documents are pages with a sidebar, a previous/next navigation and many other useful features.",
+              "source": "@site/docs/webdesign-basics.md",
+              "slug": "/webdesign-basics",
+              "permalink": "/docs/webdesign-basics",
+              "editUrl": "https://github.com/EliasRut/Vector-Monkeys-Coding-Dojo/edit/master/website/docs/webdesign-basics.md",
+              "version": "current",
+              "sidebar": "docs",
+              "previous": {
+                "title": "Step by Step Guide",
+                "permalink": "/docs/step-by-step-guide"
+              },
+              "next": {
+                "title": "JavaScript Basics",
+                "permalink": "/docs/javascript-basics"
+              }
+            },
+            {
+              "unversionedId": "workspace-setup",
+              "id": "workspace-setup",
+              "isDocsHomePage": false,
+              "title": "Workspace Setup",
+              "description": "To make starting out with programming easier, we encourage a somewhat unified workspace setup.",
+              "source": "@site/docs/workspace-setup.md",
+              "slug": "/",
+              "permalink": "/docs/",
+              "editUrl": "https://github.com/EliasRut/Vector-Monkeys-Coding-Dojo/edit/master/website/docs/workspace-setup.md",
+              "version": "current",
+              "sidebar": "docs",
+              "next": {
+                "title": "Step by Step Guide",
+                "permalink": "/docs/step-by-step-guide"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogPosts": [
+        {
+          "id": "welcome",
+          "metadata": {
+            "permalink": "/blog/welcome",
+            "editUrl": "https://github.com/EliasRut/Vector-Monkeys-Coding-Dojo/edit/master/website/blog/blog/2019-05-30-welcome.md",
+            "source": "@site/blog/2019-05-30-welcome.md",
+            "description": "Blog features are powered by the blog plugin. Simply add files to the blog directory. It supports tags as well!",
+            "date": "2019-05-30T00:00:00.000Z",
+            "formattedDate": "May 30, 2019",
+            "tags": [
+              {
+                "label": "facebook",
+                "permalink": "/blog/tags/facebook"
+              },
+              {
+                "label": "hello",
+                "permalink": "/blog/tags/hello"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/blog/tags/docusaurus"
+              }
+            ],
+            "title": "Welcome",
+            "readingTime": 0.175,
+            "truncated": false,
+            "nextItem": {
+              "title": "Hello",
+              "permalink": "/blog/hello-world"
+            }
+          }
+        },
+        {
+          "id": "hello-world",
+          "metadata": {
+            "permalink": "/blog/hello-world",
+            "editUrl": "https://github.com/EliasRut/Vector-Monkeys-Coding-Dojo/edit/master/website/blog/blog/2019-05-29-hello-world.md",
+            "source": "@site/blog/2019-05-29-hello-world.md",
+            "description": "Welcome to this blog. This blog is created with Docusaurus 2 alpha.",
+            "date": "2019-05-29T00:00:00.000Z",
+            "formattedDate": "May 29, 2019",
+            "tags": [
+              {
+                "label": "hello",
+                "permalink": "/blog/tags/hello"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/blog/tags/docusaurus"
+              }
+            ],
+            "title": "Hello",
+            "readingTime": 0.12,
+            "truncated": true,
+            "prevItem": {
+              "title": "Welcome",
+              "permalink": "/blog/welcome"
+            },
+            "nextItem": {
+              "title": "Hola",
+              "permalink": "/blog/hola"
+            }
+          }
+        },
+        {
+          "id": "hola",
+          "metadata": {
+            "permalink": "/blog/hola",
+            "editUrl": "https://github.com/EliasRut/Vector-Monkeys-Coding-Dojo/edit/master/website/blog/blog/2019-05-28-hola.md",
+            "source": "@site/blog/2019-05-28-hola.md",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet",
+            "date": "2019-05-28T00:00:00.000Z",
+            "formattedDate": "May 28, 2019",
+            "tags": [
+              {
+                "label": "hola",
+                "permalink": "/blog/tags/hola"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/blog/tags/docusaurus"
+              }
+            ],
+            "title": "Hola",
+            "readingTime": 0.12,
+            "truncated": false,
+            "prevItem": {
+              "title": "Hello",
+              "permalink": "/blog/hello-world"
+            }
+          }
+        }
+      ],
+      "blogListPaginated": [
+        {
+          "metadata": {
+            "permalink": "/blog",
+            "page": 1,
+            "postsPerPage": 10,
+            "totalPages": 1,
+            "totalCount": 3,
+            "previousPage": null,
+            "nextPage": null,
+            "blogDescription": "Blog",
+            "blogTitle": "Blog"
+          },
+          "items": [
+            "welcome",
+            "hello-world",
+            "hola"
+          ]
+        }
+      ],
+      "blogTags": {
+        "facebook": {
+          "name": "facebook",
+          "items": [
+            "welcome"
+          ],
+          "permalink": "/blog/tags/facebook"
+        },
+        "hello": {
+          "name": "hello",
+          "items": [
+            "welcome",
+            "hello-world"
+          ],
+          "permalink": "/blog/tags/hello"
+        },
+        "docusaurus": {
+          "name": "docusaurus",
+          "items": [
+            "welcome",
+            "hello-world",
+            "hola"
+          ],
+          "permalink": "/blog/tags/docusaurus"
+        },
+        "hola": {
+          "name": "hola",
+          "items": [
+            "hola"
+          ],
+          "permalink": "/blog/tags/hola"
+        }
+      },
+      "blogTagsListPath": "/blog/tags"
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/",
+        "source": "@site/src/pages/index.js"
+      },
+      {
+        "type": "mdx",
+        "permalink": "/mission-statement",
+        "source": "@site/src/pages/mission-statement.md"
+      },
+      {
+        "type": "jsx",
+        "permalink": "/monkeys",
+        "source": "@site/src/pages/monkeys.js"
+      },
+      {
+        "type": "jsx",
+        "permalink": "/projects",
+        "source": "@site/src/pages/projects.js"
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {
+    "default": null
+  },
+  "docusaurus-theme-classic": {
+    "default": null
+  }
+}
