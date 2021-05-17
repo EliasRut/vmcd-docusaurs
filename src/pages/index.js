@@ -8,8 +8,8 @@ import styles from './styles.module.css';
 
 const features = [
   {
-    title: 'Easy to Use',
-    imageUrl: 'img/undraw_docusaurus_mountain.svg',
+    title: 'Coding in a community',
+    imageUrl: 'img/undraw_pair_programming_njlp.svg',
     description: (
       <>
         Docusaurus was designed from the ground up to be easily installed and
@@ -18,8 +18,8 @@ const features = [
     ),
   },
   {
-    title: 'Focus on What Matters',
-    imageUrl: 'img/undraw_docusaurus_tree.svg',
+    title: 'React and Frontend lessons',
+    imageUrl: 'img/undraw_mobile_development_8gyo.svg',
     description: (
       <>
         Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
@@ -28,8 +28,8 @@ const features = [
     ),
   },
   {
-    title: 'Powered by React',
-    imageUrl: 'img/undraw_docusaurus_react.svg',
+    title: 'Realizing projects as a team',
+    imageUrl: 'img/undraw_building_websites_i78t.svg',
     description: (
       <>
         Extend or customize your website layout by reusing React. Docusaurus can
