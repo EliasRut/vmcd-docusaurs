@@ -12,7 +12,7 @@ export default {
     "navbar": {
       "title": "Home",
       "logo": {
-        "alt": "Vector Monkey Head",
+        "alt": "Vector Monkeys Head",
         "src": "img/vectormonkey.png"
       },
       "items": [
@@ -200,7 +200,7 @@ export default {
       "@docusaurus/preset-classic",
       {
         "docs": {
-          "sidebarPath": "/home/elias/Code/vmcd-docusaurus/sidebars.js",
+          "sidebarPath": "/home/ella/Code/vmcd-docusaurs/sidebars.js",
           "editUrl": "https://github.com/EliasRut/Vector-Monkeys-Coding-Dojo/edit/master/website/"
         },
         "blog": {
@@ -208,7 +208,7 @@ export default {
           "editUrl": "https://github.com/EliasRut/Vector-Monkeys-Coding-Dojo/edit/master/website/blog/"
         },
         "theme": {
-          "customCss": "/home/elias/Code/vmcd-docusaurus/src/css/custom.css"
+          "customCss": "/home/ella/Code/vmcd-docusaurs/src/css/custom.css"
         }
       }
     ]

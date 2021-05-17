@@ -5,11 +5,8 @@ module.exports = {
       label: 'Getting Started',
       items: [
         'workspace-setup',
-        'step-by-step-guide',
-        'webdesign-basics',
+        'step-by-step-setup-guide',
         'javascript-basics',
-        'typescript-basics',
-        'next-steps',
       ],
     },
     {

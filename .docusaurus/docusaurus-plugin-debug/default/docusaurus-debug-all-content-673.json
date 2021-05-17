@@ -10,9 +10,9 @@
           "versionEditUrlLocalized": "https://github.com/EliasRut/Vector-Monkeys-Coding-Dojo/edit/master/website/i18n/en/docusaurus-plugin-content-docs/current",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "/home/elias/Code/vmcd-docusaurus/sidebars.js",
-          "contentPath": "/home/elias/Code/vmcd-docusaurus/docs",
-          "contentPathLocalized": "/home/elias/Code/vmcd-docusaurus/i18n/en/docusaurus-plugin-content-docs/current",
+          "sidebarFilePath": "/home/ella/Code/vmcd-docusaurs/sidebars.js",
+          "contentPath": "/home/ella/Code/vmcd-docusaurs/docs",
+          "contentPathLocalized": "/home/ella/Code/vmcd-docusaurs/i18n/en/docusaurus-plugin-content-docs/current",
           "mainDocId": "workspace-setup",
           "sidebars": {
             "docs": [
@@ -27,23 +27,11 @@
                   },
                   {
                     "type": "doc",
-                    "id": "step-by-step-guide"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "webdesign-basics"
+                    "id": "step-by-step-setup-guide"
                   },
                   {
                     "type": "doc",
                     "id": "javascript-basics"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "typescript-basics"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "next-steps"
                   }
                 ]
               },
@@ -83,10 +71,7 @@
             "/docs/distant-stars-main-reactor": "docs",
             "/docs/distant-stars-story": "docs",
             "/docs/javascript-basics": "docs",
-            "/docs/next-steps": "docs",
-            "/docs/step-by-step-guide": "docs",
-            "/docs/typescript-basics": "docs",
-            "/docs/webdesign-basics": "docs",
+            "/docs/step-by-step-setup-guide": "docs",
             "/docs/": "docs"
           },
           "docs": [
@@ -183,8 +168,8 @@
               "version": "current",
               "sidebar": "docs",
               "previous": {
-                "title": "Create a Blog Post",
-                "permalink": "/docs/next-steps"
+                "title": "JavaScript Basics",
+                "permalink": "/docs/javascript-basics"
               },
               "next": {
                 "title": "Introduction",
@@ -204,12 +189,12 @@
               "version": "current",
               "sidebar": "docs",
               "previous": {
-                "title": "Create a Document",
-                "permalink": "/docs/webdesign-basics"
+                "title": "Step by Step Setup Guide",
+                "permalink": "/docs/step-by-step-setup-guide"
               },
               "next": {
-                "title": "Create a Blog Post",
-                "permalink": "/docs/typescript-basics"
+                "title": "Story",
+                "permalink": "/docs/distant-stars-story"
               }
             },
             {
@@ -234,27 +219,18 @@
               "slug": "/next-steps",
               "permalink": "/docs/next-steps",
               "editUrl": "https://github.com/EliasRut/Vector-Monkeys-Coding-Dojo/edit/master/website/docs/next-steps.md",
-              "version": "current",
-              "sidebar": "docs",
-              "previous": {
-                "title": "Create a Blog Post",
-                "permalink": "/docs/typescript-basics"
-              },
-              "next": {
-                "title": "Story",
-                "permalink": "/docs/distant-stars-story"
-              }
+              "version": "current"
             },
             {
-              "unversionedId": "step-by-step-guide",
-              "id": "step-by-step-guide",
+              "unversionedId": "step-by-step-setup-guide",
+              "id": "step-by-step-setup-guide",
               "isDocsHomePage": false,
-              "title": "Step by Step Guide",
+              "title": "Step by Step Setup Guide",
               "description": "For now we only have guides for Windows 10, MacOs and Linux (Ubuntu to be precise). If you are running",
-              "source": "@site/docs/step-by-step-guide.md",
-              "slug": "/step-by-step-guide",
-              "permalink": "/docs/step-by-step-guide",
-              "editUrl": "https://github.com/EliasRut/Vector-Monkeys-Coding-Dojo/edit/master/website/docs/step-by-step-guide.md",
+              "source": "@site/docs/step-by-step-setup-guide.md",
+              "slug": "/step-by-step-setup-guide",
+              "permalink": "/docs/step-by-step-setup-guide",
+              "editUrl": "https://github.com/EliasRut/Vector-Monkeys-Coding-Dojo/edit/master/website/docs/step-by-step-setup-guide.md",
               "version": "current",
               "sidebar": "docs",
               "previous": {
@@ -262,29 +238,8 @@
                 "permalink": "/docs/"
               },
               "next": {
-                "title": "Create a Document",
-                "permalink": "/docs/webdesign-basics"
-              }
-            },
-            {
-              "unversionedId": "typescript-basics",
-              "id": "typescript-basics",
-              "isDocsHomePage": false,
-              "title": "Create a Blog Post",
-              "description": "This page will help you on how to create blog posts in Docusaurus.",
-              "source": "@site/docs/typescript-basics.md",
-              "slug": "/typescript-basics",
-              "permalink": "/docs/typescript-basics",
-              "editUrl": "https://github.com/EliasRut/Vector-Monkeys-Coding-Dojo/edit/master/website/docs/typescript-basics.md",
-              "version": "current",
-              "sidebar": "docs",
-              "previous": {
                 "title": "JavaScript Basics",
                 "permalink": "/docs/javascript-basics"
-              },
-              "next": {
-                "title": "Create a Blog Post",
-                "permalink": "/docs/next-steps"
               }
             },
             {
@@ -297,16 +252,7 @@
               "slug": "/webdesign-basics",
               "permalink": "/docs/webdesign-basics",
               "editUrl": "https://github.com/EliasRut/Vector-Monkeys-Coding-Dojo/edit/master/website/docs/webdesign-basics.md",
-              "version": "current",
-              "sidebar": "docs",
-              "previous": {
-                "title": "Step by Step Guide",
-                "permalink": "/docs/step-by-step-guide"
-              },
-              "next": {
-                "title": "JavaScript Basics",
-                "permalink": "/docs/javascript-basics"
-              }
+              "version": "current"
             },
             {
               "unversionedId": "workspace-setup",
@@ -321,8 +267,8 @@
               "version": "current",
               "sidebar": "docs",
               "next": {
-                "title": "Step by Step Guide",
-                "permalink": "/docs/step-by-step-guide"
+                "title": "Step by Step Setup Guide",
+                "permalink": "/docs/step-by-step-setup-guide"
               }
             }
           ]
@@ -339,7 +285,7 @@
             "permalink": "/blog/hola",
             "editUrl": "https://github.com/EliasRut/Vector-Monkeys-Coding-Dojo/edit/master/website/blog/blog/2021-05-16-running-deep-dives.md",
             "source": "@site/blog/2021-05-16-running-deep-dives.md",
-            "description": "For the last few months, we have held what we call a Deep Dive most Thursday evening. With",
+            "description": "For the last few months, we have held what we call a Deep Dive most Thursday evenings. With",
             "date": "2021-05-16T00:00:00.000Z",
             "formattedDate": "May 16, 2021",
             "tags": [

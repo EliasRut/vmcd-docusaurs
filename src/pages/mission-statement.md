@@ -7,9 +7,9 @@ preferences the chance to become Software Engineers.
 
 This means a few things to us that might not be immediately obvious.
 ### Minimal prior knowledge required
-We start at the basics as far as reasonably possible.
-A basic understanding of maths, basic computer usage and a certain fluidity in English is all 
-we want to require.
+We start at the very basics as far as reasonably possible.
+A rudimentary understanding of maths, computer usage and a certain fluidity in English is all 
+that's needed.
 ### Minimal financial burdens
 We feel strongly about the difference socioeconomic background has 
 on the likely paths that we, individually, can take. We do not charge for any part of the course 
@@ -27,7 +27,7 @@ The Dojo aims to create and foster a community of people interested in coding, a
 ongoing opportunities to deepen their knowledge and their skills. There are four major parts to this.
 
 ## Weekly small-group courses
-The heart of the project is a 3 month long, weekly 2 hour course 
+The heart of the project is a 3-month long, weekly 2 hours course 
 with accompanying exercises, held remotely in a small-group format (~5 people). Aim of the 
 course is to bring complete beginners to a point where they are comfortable writing small React 
 apps. The course focuses on the frontend side of things, mostly since there is more immediate 
@@ -38,31 +38,31 @@ feedback. During the 3 months, students will get familiarity with
 * Node.js, npm
 * React, Redux, jest, react-static
 * git, GitHub, Visual Studio Code, eslint
-## Weekly "deep-dives"
+## Weekly "Deep Dives"
 We also offer weekly, approx. one-hour long presentations on specific 
 programming related topics, often but not always focused on web technologies. These are intended 
 to maintain interest and learning, and to offer a place for discussions on technologies and 
-current events. Deep dives are always remote, typically in Discord.
+current events. Deep Dives are always remote, typically in Discord.
 ## Monthly team coding sessions
 Understanding small examples is very different from being able to 
 reason through and contribute to actual complex code bases. To help with the latter, the Vector 
-Monkeys Coding Dojo holds ~12 hour session one weekend a month where we work on some reasonably 
+Monkeys Coding Dojo holds ~12 hour sessions on a weekend per month where we work on some reasonably 
 complex project, including task management (we use Trello), design documents, story maps, code 
 reviews and collaboration sessions. The current project is a Phaser.js pixel art game, targeted 
 for web and mobile platforms.
 ## Resource collection
 There are lots of great coursewares, programming challenges and tutorials 
 online and freely available already. As such, we don't have a huge collection of material that 
-is specific to us. What we do try to provide is a first guide on how to start your journey. That 
+is unique to us. What we do try to provide is a first guide on how to start your journey. That 
 includes a set of instructions for getting to a sensible starting point in terms of 
-configuration and software for writing code, a basic set of tutorials on the basics of 
+configuration and software for writing code, a basic set of tutorials on the fundamentals of 
 JavaScript, and a set of story-driven programming challenges that go hand in hand with the 
 tutorials.
 
 We also try to bring people interested in becoming Software Engineers together with people who are 
 interested in hiring Software Engineers. And we have a Discord channel.
 
-If you are interested in any of the above, drop us a line under ###Link-to-contact###.
+If you are interested in any of the above, hop on our Discord channel and let us know.
 
 ## How we think about learning
 We believe that, in order to improve a skill, the most relevant quality is consistency.

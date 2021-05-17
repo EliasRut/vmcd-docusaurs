@@ -1,5 +1,5 @@
 ---
-title: Step by Step Guide
+title: Step by Step Setup Guide
 ---
 
 For now we only have guides for Windows 10, MacOs and Linux (Ubuntu to be precise). If you are running

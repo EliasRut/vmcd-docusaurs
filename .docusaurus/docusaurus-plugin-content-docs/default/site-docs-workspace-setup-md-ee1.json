@@ -11,7 +11,7 @@
   "version": "current",
   "sidebar": "docs",
   "next": {
-    "title": "Step by Step Guide",
-    "permalink": "/docs/step-by-step-guide"
+    "title": "Step by Step Setup Guide",
+    "permalink": "/docs/step-by-step-setup-guide"
   }
 }

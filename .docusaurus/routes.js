@@ -44,22 +44,22 @@ export default [
 },
 {
   path: '/blog',
-  component: ComponentCreator('/blog','194'),
+  component: ComponentCreator('/blog','a1f'),
   exact: true,
 },
 {
   path: '/blog/hola',
-  component: ComponentCreator('/blog/hola','df3'),
+  component: ComponentCreator('/blog/hola','96a'),
   exact: true,
 },
 {
   path: '/blog/tags',
-  component: ComponentCreator('/blog/tags','7e7'),
+  component: ComponentCreator('/blog/tags','ed5'),
   exact: true,
 },
 {
   path: '/blog/tags/deep-dive',
-  component: ComponentCreator('/blog/tags/deep-dive','449'),
+  component: ComponentCreator('/blog/tags/deep-dive','191'),
   exact: true,
 },
 {
@@ -84,7 +84,7 @@ export default [
 },
 {
   path: '/docs',
-  component: ComponentCreator('/docs','fd5'),
+  component: ComponentCreator('/docs','509'),
   
   routes: [
 {
@@ -133,13 +133,8 @@ export default [
   exact: true,
 },
 {
-  path: '/docs/step-by-step-guide',
-  component: ComponentCreator('/docs/step-by-step-guide','988'),
-  exact: true,
-},
-{
-  path: '/docs/typescript-basics',
-  component: ComponentCreator('/docs/typescript-basics','cbd'),
+  path: '/docs/step-by-step-setup-guide',
+  component: ComponentCreator('/docs/step-by-step-setup-guide','604'),
   exact: true,
 },
 {

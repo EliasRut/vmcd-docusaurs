@@ -13,7 +13,7 @@ module.exports = {
     navbar: {
       title: 'Home',
       logo: {
-        alt: 'Vector Monkey Head',
+        alt: 'Vector Monkeys Head',
         src: 'img/vectormonkey.png',
       },
       items: [

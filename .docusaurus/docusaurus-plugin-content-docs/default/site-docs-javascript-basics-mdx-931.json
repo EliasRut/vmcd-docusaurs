@@ -11,11 +11,11 @@
   "version": "current",
   "sidebar": "docs",
   "previous": {
-    "title": "Create a Document",
-    "permalink": "/docs/webdesign-basics"
+    "title": "Step by Step Setup Guide",
+    "permalink": "/docs/step-by-step-setup-guide"
   },
   "next": {
-    "title": "Create a Blog Post",
-    "permalink": "/docs/typescript-basics"
+    "title": "Story",
+    "permalink": "/docs/distant-stars-story"
   }
 }

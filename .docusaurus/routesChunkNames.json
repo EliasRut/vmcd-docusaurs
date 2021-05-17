@@ -25,9 +25,9 @@
   "/__docusaurus/debug/routes-244": {
     "component": "component---theme-debug-routes-946-699"
   },
-  "/blog-194": {
+  "/blog-a1f": {
     "component": "component---theme-blog-list-pagea-6-a-7ba",
-    "sidebar": "sidebar---blogb-4-d-c24",
+    "sidebar": "sidebar---bloged-0-fac",
     "items": [
       {
         "content": "content---blog-9-b-6-266"
@@ -35,19 +35,19 @@
     ],
     "metadata": "metadata---blogb-2-b-df1"
   },
-  "/blog/hola-df3": {
+  "/blog/hola-96a": {
     "component": "component---theme-blog-post-pageccc-cab",
-    "sidebar": "sidebar---blogb-4-d-c24",
+    "sidebar": "sidebar---bloged-0-fac",
     "content": "content---blog-hola-581-4a8"
   },
-  "/blog/tags-7e7": {
+  "/blog/tags-ed5": {
     "component": "component---theme-blog-tags-list-page-01-a-d0b",
-    "sidebar": "sidebar---blogb-4-d-c24",
+    "sidebar": "sidebar---bloged-0-fac",
     "tags": "tags---blog-tagsa-70-da2"
   },
-  "/blog/tags/deep-dive-449": {
+  "/blog/tags/deep-dive-191": {
     "component": "component---theme-blog-tags-posts-page-687-b6c",
-    "sidebar": "sidebar---blogb-4-d-c24",
+    "sidebar": "sidebar---bloged-0-fac",
     "items": [
       {
         "content": "content---blog-9-b-6-266"
@@ -71,7 +71,7 @@
     "component": "component---theme-mdx-page-1-f-3-b90",
     "content": "content---projectse-00-f95"
   },
-  "/docs-fd5": {
+  "/docs-509": {
     "component": "component---theme-doc-page-1-be-9be",
     "versionMetadata": "versionMetadata---docs-935-398"
   },
@@ -111,13 +111,9 @@
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-next-steps-8-ef-f33"
   },
-  "/docs/step-by-step-guide-988": {
+  "/docs/step-by-step-setup-guide-604": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-step-by-step-guide-53-f-baf"
-  },
-  "/docs/typescript-basics-cbd": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-typescript-basicsc-95-b77"
+    "content": "content---docs-step-by-step-setup-guide-5-c-8-1ee"
   },
   "/docs/webdesign-basics-aa9": {
     "component": "component---theme-doc-item-178-a40",

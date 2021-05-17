@@ -46,23 +46,16 @@
             },
             {
               "id": "next-steps",
-              "path": "/docs/next-steps",
-              "sidebar": "docs"
+              "path": "/docs/next-steps"
             },
             {
-              "id": "step-by-step-guide",
-              "path": "/docs/step-by-step-guide",
-              "sidebar": "docs"
-            },
-            {
-              "id": "typescript-basics",
-              "path": "/docs/typescript-basics",
+              "id": "step-by-step-setup-guide",
+              "path": "/docs/step-by-step-setup-guide",
               "sidebar": "docs"
             },
             {
               "id": "webdesign-basics",
-              "path": "/docs/webdesign-basics",
-              "sidebar": "docs"
+              "path": "/docs/webdesign-basics"
             },
             {
               "id": "workspace-setup",
