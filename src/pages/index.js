@@ -63,6 +63,8 @@ export default function Home() {
       description="Description will go into a meta tag in <head />">
       <header className={clsx('hero hero--primary', styles.heroBanner)}>
         <div className="container">
+          <img src="img/logo_black_640.png" className="hero__logo hero__logo--black" />
+          <img src="img/logo_white_640.png" className="hero__logo hero__logo--white" />
           <h1 className="hero__title">{siteConfig.title}</h1>
           <p className="hero__subtitle">{siteConfig.tagline}</p>
           <div className={styles.buttons}>

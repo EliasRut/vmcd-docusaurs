@@ -23,3 +23,16 @@
   margin: 0 calc(-1 * var(--ifm-pre-padding));
   padding: 0 var(--ifm-pre-padding);
 }
+
+.hero__logo {
+  max-width: 160px;
+  max-height: 160px;
+}
+
+html[data-theme="light"] .hero__logo--black {
+  display: none;
+}
+
+html[data-theme="dark"] .hero__logo--white {
+  display: none;
+}

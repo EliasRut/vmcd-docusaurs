@@ -14,7 +14,8 @@ module.exports = {
       title: 'Home',
       logo: {
         alt: 'Vector Monkey Head',
-        src: 'img/vectormonkey.png',
+        src: 'img/vectormonkey_black.png',
+        srcDark: 'img/vectormonkey_white.png',
       },
       items: [
         {to: 'mission-statement/', label: 'Mission Statement', position: 'left'},
