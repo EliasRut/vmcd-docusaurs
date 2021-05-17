@@ -22,6 +22,10 @@
   "title": "Welcome",
   "readingTime": 0.175,
   "truncated": false,
+  "prevItem": {
+    "title": "Hola",
+    "permalink": "/blog/hola"
+  },
   "nextItem": {
     "title": "Hello",
     "permalink": "/blog/hello-world"

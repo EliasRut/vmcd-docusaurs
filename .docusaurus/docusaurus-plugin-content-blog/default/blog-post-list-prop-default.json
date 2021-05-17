@@ -2,15 +2,7 @@
   "title": "Recent posts",
   "items": [
     {
-      "title": "Welcome",
-      "permalink": "/blog/welcome"
-    },
-    {
-      "title": "Hello",
-      "permalink": "/blog/hello-world"
-    },
-    {
-      "title": "Hola",
+      "title": "Deep Dive Series - The other basic SE skills",
       "permalink": "/blog/hola"
     }
   ]

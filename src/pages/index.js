@@ -71,8 +71,8 @@ export default function Home() {
                 'button button--outline button--secondary button--lg',
                 styles.getStarted,
               )}
-              to={useBaseUrl('docs/')}>
-              Get Started
+              to="https://discord.gg/8VsPfKu8UY">
+              Meet us in Discord
             </Link>
           </div>
         </div>

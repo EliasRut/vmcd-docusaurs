@@ -1,6 +1,6 @@
 export default {
   "title": "Vector Monkeys Coding Dojo",
-  "tagline": "The tagline of my site",
+  "tagline": "A community for coding enthusiasts of all backgrounds",
   "url": "https://www.vectormonkeys.com",
   "baseUrl": "/",
   "onBrokenLinks": "throw",
@@ -35,11 +35,6 @@ export default {
         {
           "to": "projects",
           "label": "Projects",
-          "position": "left"
-        },
-        {
-          "to": "monkeys",
-          "label": "Meet the monkeys",
           "position": "left"
         },
         {
@@ -79,12 +74,8 @@ export default {
           "title": "More",
           "items": [
             {
-              "label": "Blog",
-              "to": "blog"
-            },
-            {
-              "label": "Projects",
-              "to": "projects"
+              "label": "Impressum",
+              "to": "impressum"
             },
             {
               "label": "GitHub",

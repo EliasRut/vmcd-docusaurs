@@ -1,7 +1,7 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   title: 'Vector Monkeys Coding Dojo',
-  tagline: 'The tagline of my site',
+  tagline: 'A community for coding enthusiasts of all backgrounds',
   url: 'https://www.vectormonkeys.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -26,7 +26,7 @@ module.exports = {
         },
         {to: 'blog', label: 'Blog', position: 'left'},
         {to: 'projects', label: 'Projects', position: 'left'},
-        {to: 'monkeys', label: 'Meet the monkeys', position: 'left'},
+        // {to: 'monkeys', label: 'Meet the monkeys', position: 'left'},
         {
           href: 'https://github.com/EliasRut/Vector-Monkeys-Coding-Dojo',
           label: 'GitHub',
@@ -63,12 +63,8 @@ module.exports = {
           title: 'More',
           items: [
             {
-              label: 'Blog',
-              to: 'blog',
-            },
-            {
-              label: 'Projects',
-              to: 'projects',
+              label: 'Impressum',
+              to: 'impressum',
             },
             {
               label: 'GitHub',
