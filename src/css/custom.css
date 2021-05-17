@@ -41,3 +41,16 @@ html[data-theme="light"] .discordLogo path {
 html[data-theme="dark"] .discordLogo path {
   fill: #000;
 }
+
+.hero__logo {
+  max-width: 160px;
+  max-height: 160px;
+}
+
+html[data-theme="light"] .hero__logo--black {
+  display: none;
+}
+
+html[data-theme="dark"] .hero__logo--white {
+  display: none;
+}

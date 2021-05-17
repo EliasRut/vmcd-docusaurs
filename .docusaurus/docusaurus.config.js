@@ -12,8 +12,9 @@ export default {
     "navbar": {
       "title": "Home",
       "logo": {
-        "alt": "Vector Monkeys Head",
-        "src": "img/vectormonkey.png"
+        "alt": "Vector Monkey Head",
+        "src": "img/vectormonkey_black.png",
+        "srcDark": "img/vectormonkey_white.png"
       },
       "items": [
         {
