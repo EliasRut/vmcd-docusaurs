@@ -6,8 +6,8 @@
           "versionName": "current",
           "versionLabel": "Next",
           "versionPath": "/docs",
-          "versionEditUrl": "https://github.com/EliasRut/Vector-Monkeys-Coding-Dojo/edit/master/website/docs",
-          "versionEditUrlLocalized": "https://github.com/EliasRut/Vector-Monkeys-Coding-Dojo/edit/master/website/i18n/en/docusaurus-plugin-content-docs/current",
+          "versionEditUrl": "https://github.com/EliasRut/vmcd-docusaurs/edit/master/website/docs",
+          "versionEditUrlLocalized": "https://github.com/EliasRut/vmcd-docusaurs/edit/master/website/i18n/en/docusaurus-plugin-content-docs/current",
           "isLast": true,
           "routePriority": -1,
           "sidebarFilePath": "/home/elias/Code/vmcd-docusaurus/sidebars.js",
@@ -27,23 +27,11 @@
                   },
                   {
                     "type": "doc",
-                    "id": "step-by-step-guide"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "webdesign-basics"
+                    "id": "step-by-step-setup-guide"
                   },
                   {
                     "type": "doc",
                     "id": "javascript-basics"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "typescript-basics"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "next-steps"
                   }
                 ]
               },
@@ -83,10 +71,7 @@
             "/docs/distant-stars-main-reactor": "docs",
             "/docs/distant-stars-story": "docs",
             "/docs/javascript-basics": "docs",
-            "/docs/next-steps": "docs",
-            "/docs/step-by-step-guide": "docs",
-            "/docs/typescript-basics": "docs",
-            "/docs/webdesign-basics": "docs",
+            "/docs/step-by-step-setup-guide": "docs",
             "/docs/": "docs"
           },
           "docs": [
@@ -99,7 +84,7 @@
               "source": "@site/docs/distant-stars-bridge-control.md",
               "slug": "/distant-stars-bridge-control",
               "permalink": "/docs/distant-stars-bridge-control",
-              "editUrl": "https://github.com/EliasRut/Vector-Monkeys-Coding-Dojo/edit/master/website/docs/distant-stars-bridge-control.md",
+              "editUrl": "https://github.com/EliasRut/vmcd-docusaurs/edit/master/website/docs/distant-stars-bridge-control.md",
               "version": "current",
               "sidebar": "docs",
               "previous": {
@@ -120,7 +105,7 @@
               "source": "@site/docs/distant-stars-introduction.md",
               "slug": "/distant-stars-introduction",
               "permalink": "/docs/distant-stars-introduction",
-              "editUrl": "https://github.com/EliasRut/Vector-Monkeys-Coding-Dojo/edit/master/website/docs/distant-stars-introduction.md",
+              "editUrl": "https://github.com/EliasRut/vmcd-docusaurs/edit/master/website/docs/distant-stars-introduction.md",
               "version": "current",
               "sidebar": "docs",
               "previous": {
@@ -141,7 +126,7 @@
               "source": "@site/docs/distant-stars-life-support.md",
               "slug": "/distant-stars-life-support",
               "permalink": "/docs/distant-stars-life-support",
-              "editUrl": "https://github.com/EliasRut/Vector-Monkeys-Coding-Dojo/edit/master/website/docs/distant-stars-life-support.md",
+              "editUrl": "https://github.com/EliasRut/vmcd-docusaurs/edit/master/website/docs/distant-stars-life-support.md",
               "version": "current",
               "sidebar": "docs",
               "previous": {
@@ -162,7 +147,7 @@
               "source": "@site/docs/distant-stars-main-reactor.md",
               "slug": "/distant-stars-main-reactor",
               "permalink": "/docs/distant-stars-main-reactor",
-              "editUrl": "https://github.com/EliasRut/Vector-Monkeys-Coding-Dojo/edit/master/website/docs/distant-stars-main-reactor.md",
+              "editUrl": "https://github.com/EliasRut/vmcd-docusaurs/edit/master/website/docs/distant-stars-main-reactor.md",
               "version": "current",
               "sidebar": "docs",
               "previous": {
@@ -179,12 +164,12 @@
               "source": "@site/docs/distant-stars-story.md",
               "slug": "/distant-stars-story",
               "permalink": "/docs/distant-stars-story",
-              "editUrl": "https://github.com/EliasRut/Vector-Monkeys-Coding-Dojo/edit/master/website/docs/distant-stars-story.md",
+              "editUrl": "https://github.com/EliasRut/vmcd-docusaurs/edit/master/website/docs/distant-stars-story.md",
               "version": "current",
               "sidebar": "docs",
               "previous": {
-                "title": "Create a Blog Post",
-                "permalink": "/docs/next-steps"
+                "title": "JavaScript Basics",
+                "permalink": "/docs/javascript-basics"
               },
               "next": {
                 "title": "Introduction",
@@ -200,16 +185,16 @@
               "source": "@site/docs/javascript-basics.mdx",
               "slug": "/javascript-basics",
               "permalink": "/docs/javascript-basics",
-              "editUrl": "https://github.com/EliasRut/Vector-Monkeys-Coding-Dojo/edit/master/website/docs/javascript-basics.mdx",
+              "editUrl": "https://github.com/EliasRut/vmcd-docusaurs/edit/master/website/docs/javascript-basics.mdx",
               "version": "current",
               "sidebar": "docs",
               "previous": {
-                "title": "Create a Document",
-                "permalink": "/docs/webdesign-basics"
+                "title": "Step by Step Setup Guide",
+                "permalink": "/docs/step-by-step-setup-guide"
               },
               "next": {
-                "title": "Create a Blog Post",
-                "permalink": "/docs/typescript-basics"
+                "title": "Story",
+                "permalink": "/docs/distant-stars-story"
               }
             },
             {
@@ -221,7 +206,7 @@
               "source": "@site/docs/markdown-features.mdx",
               "slug": "/markdown-features",
               "permalink": "/docs/markdown-features",
-              "editUrl": "https://github.com/EliasRut/Vector-Monkeys-Coding-Dojo/edit/master/website/docs/markdown-features.mdx",
+              "editUrl": "https://github.com/EliasRut/vmcd-docusaurs/edit/master/website/docs/markdown-features.mdx",
               "version": "current"
             },
             {
@@ -233,28 +218,19 @@
               "source": "@site/docs/next-steps.md",
               "slug": "/next-steps",
               "permalink": "/docs/next-steps",
-              "editUrl": "https://github.com/EliasRut/Vector-Monkeys-Coding-Dojo/edit/master/website/docs/next-steps.md",
-              "version": "current",
-              "sidebar": "docs",
-              "previous": {
-                "title": "Create a Blog Post",
-                "permalink": "/docs/typescript-basics"
-              },
-              "next": {
-                "title": "Story",
-                "permalink": "/docs/distant-stars-story"
-              }
+              "editUrl": "https://github.com/EliasRut/vmcd-docusaurs/edit/master/website/docs/next-steps.md",
+              "version": "current"
             },
             {
-              "unversionedId": "step-by-step-guide",
-              "id": "step-by-step-guide",
+              "unversionedId": "step-by-step-setup-guide",
+              "id": "step-by-step-setup-guide",
               "isDocsHomePage": false,
-              "title": "Step by Step Guide",
+              "title": "Step by Step Setup Guide",
               "description": "For now we only have guides for Windows 10, MacOs and Linux (Ubuntu to be precise). If you are running",
-              "source": "@site/docs/step-by-step-guide.md",
-              "slug": "/step-by-step-guide",
-              "permalink": "/docs/step-by-step-guide",
-              "editUrl": "https://github.com/EliasRut/Vector-Monkeys-Coding-Dojo/edit/master/website/docs/step-by-step-guide.md",
+              "source": "@site/docs/step-by-step-setup-guide.md",
+              "slug": "/step-by-step-setup-guide",
+              "permalink": "/docs/step-by-step-setup-guide",
+              "editUrl": "https://github.com/EliasRut/vmcd-docusaurs/edit/master/website/docs/step-by-step-setup-guide.md",
               "version": "current",
               "sidebar": "docs",
               "previous": {
@@ -262,29 +238,8 @@
                 "permalink": "/docs/"
               },
               "next": {
-                "title": "Create a Document",
-                "permalink": "/docs/webdesign-basics"
-              }
-            },
-            {
-              "unversionedId": "typescript-basics",
-              "id": "typescript-basics",
-              "isDocsHomePage": false,
-              "title": "Create a Blog Post",
-              "description": "This page will help you on how to create blog posts in Docusaurus.",
-              "source": "@site/docs/typescript-basics.md",
-              "slug": "/typescript-basics",
-              "permalink": "/docs/typescript-basics",
-              "editUrl": "https://github.com/EliasRut/Vector-Monkeys-Coding-Dojo/edit/master/website/docs/typescript-basics.md",
-              "version": "current",
-              "sidebar": "docs",
-              "previous": {
                 "title": "JavaScript Basics",
                 "permalink": "/docs/javascript-basics"
-              },
-              "next": {
-                "title": "Create a Blog Post",
-                "permalink": "/docs/next-steps"
               }
             },
             {
@@ -296,17 +251,8 @@
               "source": "@site/docs/webdesign-basics.md",
               "slug": "/webdesign-basics",
               "permalink": "/docs/webdesign-basics",
-              "editUrl": "https://github.com/EliasRut/Vector-Monkeys-Coding-Dojo/edit/master/website/docs/webdesign-basics.md",
-              "version": "current",
-              "sidebar": "docs",
-              "previous": {
-                "title": "Step by Step Guide",
-                "permalink": "/docs/step-by-step-guide"
-              },
-              "next": {
-                "title": "JavaScript Basics",
-                "permalink": "/docs/javascript-basics"
-              }
+              "editUrl": "https://github.com/EliasRut/vmcd-docusaurs/edit/master/website/docs/webdesign-basics.md",
+              "version": "current"
             },
             {
               "unversionedId": "workspace-setup",
@@ -317,12 +263,12 @@
               "source": "@site/docs/workspace-setup.md",
               "slug": "/",
               "permalink": "/docs/",
-              "editUrl": "https://github.com/EliasRut/Vector-Monkeys-Coding-Dojo/edit/master/website/docs/workspace-setup.md",
+              "editUrl": "https://github.com/EliasRut/vmcd-docusaurs/edit/master/website/docs/workspace-setup.md",
               "version": "current",
               "sidebar": "docs",
               "next": {
-                "title": "Step by Step Guide",
-                "permalink": "/docs/step-by-step-guide"
+                "title": "Step by Step Setup Guide",
+                "permalink": "/docs/step-by-step-setup-guide"
               }
             }
           ]
@@ -334,12 +280,12 @@
     "default": {
       "blogPosts": [
         {
-          "id": "hola",
+          "id": "Deep Dive Series - The other basic SE skills",
           "metadata": {
-            "permalink": "/blog/hola",
-            "editUrl": "https://github.com/EliasRut/Vector-Monkeys-Coding-Dojo/edit/master/website/blog/blog/2021-05-16-running-deep-dives.md",
+            "permalink": "/blog/2021/05/16/running-deep-dives",
+            "editUrl": "https://github.com/EliasRut/vmcd-docusaurs/edit/master/website/blog/blog/2021-05-16-running-deep-dives.md",
             "source": "@site/blog/2021-05-16-running-deep-dives.md",
-            "description": "For the last few months, we have held what we call a Deep Dive most Thursday evening. With",
+            "description": "For the last few months, we have held what we call a Deep Dive most Thursday evenings. With",
             "date": "2021-05-16T00:00:00.000Z",
             "formattedDate": "May 16, 2021",
             "tags": [
@@ -368,7 +314,7 @@
             "blogTitle": "Blog"
           },
           "items": [
-            "hola"
+            "Deep Dive Series - The other basic SE skills"
           ]
         }
       ],
@@ -376,7 +322,7 @@
         "deep-dive": {
           "name": "deep dive",
           "items": [
-            "hola"
+            "Deep Dive Series - The other basic SE skills"
           ],
           "permalink": "/blog/tags/deep-dive"
         }

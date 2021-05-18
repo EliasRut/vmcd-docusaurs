@@ -7,15 +7,6 @@
   "source": "@site/docs/webdesign-basics.md",
   "slug": "/webdesign-basics",
   "permalink": "/docs/webdesign-basics",
-  "editUrl": "https://github.com/EliasRut/Vector-Monkeys-Coding-Dojo/edit/master/website/docs/webdesign-basics.md",
-  "version": "current",
-  "sidebar": "docs",
-  "previous": {
-    "title": "Step by Step Guide",
-    "permalink": "/docs/step-by-step-guide"
-  },
-  "next": {
-    "title": "JavaScript Basics",
-    "permalink": "/docs/javascript-basics"
-  }
+  "editUrl": "https://github.com/EliasRut/vmcd-docusaurs/edit/master/website/docs/webdesign-basics.md",
+  "version": "current"
 }

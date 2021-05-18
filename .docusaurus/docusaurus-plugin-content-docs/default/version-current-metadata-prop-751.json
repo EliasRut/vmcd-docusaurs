@@ -17,28 +17,13 @@
           },
           {
             "type": "link",
-            "label": "Step by Step Guide",
-            "href": "/docs/step-by-step-guide"
-          },
-          {
-            "type": "link",
-            "label": "Create a Document",
-            "href": "/docs/webdesign-basics"
+            "label": "Step by Step Setup Guide",
+            "href": "/docs/step-by-step-setup-guide"
           },
           {
             "type": "link",
             "label": "JavaScript Basics",
             "href": "/docs/javascript-basics"
-          },
-          {
-            "type": "link",
-            "label": "Create a Blog Post",
-            "href": "/docs/typescript-basics"
-          },
-          {
-            "type": "link",
-            "label": "Create a Blog Post",
-            "href": "/docs/next-steps"
           }
         ]
       },
@@ -83,10 +68,7 @@
     "/docs/distant-stars-main-reactor": "docs",
     "/docs/distant-stars-story": "docs",
     "/docs/javascript-basics": "docs",
-    "/docs/next-steps": "docs",
-    "/docs/step-by-step-guide": "docs",
-    "/docs/typescript-basics": "docs",
-    "/docs/webdesign-basics": "docs",
+    "/docs/step-by-step-setup-guide": "docs",
     "/docs/": "docs"
   }
 }

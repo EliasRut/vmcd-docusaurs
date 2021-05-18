@@ -7,12 +7,12 @@
   "source": "@site/docs/distant-stars-story.md",
   "slug": "/distant-stars-story",
   "permalink": "/docs/distant-stars-story",
-  "editUrl": "https://github.com/EliasRut/Vector-Monkeys-Coding-Dojo/edit/master/website/docs/distant-stars-story.md",
+  "editUrl": "https://github.com/EliasRut/vmcd-docusaurs/edit/master/website/docs/distant-stars-story.md",
   "version": "current",
   "sidebar": "docs",
   "previous": {
-    "title": "Create a Blog Post",
-    "permalink": "/docs/next-steps"
+    "title": "JavaScript Basics",
+    "permalink": "/docs/javascript-basics"
   },
   "next": {
     "title": "Introduction",

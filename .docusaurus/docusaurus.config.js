@@ -7,7 +7,7 @@ export default {
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.ico",
   "organizationName": "EliasRut",
-  "projectName": "Vector-Monkeys-Coding-Dojo",
+  "projectName": "vmcd-docusaurs",
   "themeConfig": {
     "navbar": {
       "title": "Home",
@@ -67,7 +67,7 @@ export default {
           "items": [
             {
               "label": "Discord",
-              "href": "https://discordapp.com/invite/docusaurus"
+              "href": "https://discord.gg/8VsPfKu8UY"
             }
           ]
         },
@@ -202,11 +202,11 @@ export default {
       {
         "docs": {
           "sidebarPath": "/home/elias/Code/vmcd-docusaurus/sidebars.js",
-          "editUrl": "https://github.com/EliasRut/Vector-Monkeys-Coding-Dojo/edit/master/website/"
+          "editUrl": "https://github.com/EliasRut/vmcd-docusaurs/edit/master/website/"
         },
         "blog": {
           "showReadingTime": true,
-          "editUrl": "https://github.com/EliasRut/Vector-Monkeys-Coding-Dojo/edit/master/website/blog/"
+          "editUrl": "https://github.com/EliasRut/vmcd-docusaurs/edit/master/website/blog/"
         },
         "theme": {
           "customCss": "/home/elias/Code/vmcd-docusaurus/src/css/custom.css"

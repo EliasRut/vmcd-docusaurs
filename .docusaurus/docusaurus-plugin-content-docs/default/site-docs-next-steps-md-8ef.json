@@ -7,15 +7,6 @@
   "source": "@site/docs/next-steps.md",
   "slug": "/next-steps",
   "permalink": "/docs/next-steps",
-  "editUrl": "https://github.com/EliasRut/Vector-Monkeys-Coding-Dojo/edit/master/website/docs/next-steps.md",
-  "version": "current",
-  "sidebar": "docs",
-  "previous": {
-    "title": "Create a Blog Post",
-    "permalink": "/docs/typescript-basics"
-  },
-  "next": {
-    "title": "Story",
-    "permalink": "/docs/distant-stars-story"
-  }
+  "editUrl": "https://github.com/EliasRut/vmcd-docusaurs/edit/master/website/docs/next-steps.md",
+  "version": "current"
 }

@@ -7,15 +7,15 @@
   "source": "@site/docs/javascript-basics.mdx",
   "slug": "/javascript-basics",
   "permalink": "/docs/javascript-basics",
-  "editUrl": "https://github.com/EliasRut/Vector-Monkeys-Coding-Dojo/edit/master/website/docs/javascript-basics.mdx",
+  "editUrl": "https://github.com/EliasRut/vmcd-docusaurs/edit/master/website/docs/javascript-basics.mdx",
   "version": "current",
   "sidebar": "docs",
   "previous": {
-    "title": "Create a Document",
-    "permalink": "/docs/webdesign-basics"
+    "title": "Step by Step Setup Guide",
+    "permalink": "/docs/step-by-step-setup-guide"
   },
   "next": {
-    "title": "Create a Blog Post",
-    "permalink": "/docs/typescript-basics"
+    "title": "Story",
+    "permalink": "/docs/distant-stars-story"
   }
 }

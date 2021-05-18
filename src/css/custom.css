@@ -17,11 +17,45 @@
   --ifm-code-font-size: 95%;
 }
 
+html[data-theme="light"] {
+  --ifm-link-color: #0ece00;
+}
+
+html[data-theme="light"] h1 a,
+html[data-theme="light"] h2 a,
+html[data-theme="light"] h4 a,
+html[data-theme="light"] h4 a,
+html[data-theme="light"] h5 a {
+  color: #99d095;
+}
+
+.pagination-nav__label {
+  font-weight: 400;
+}
+
 .docusaurus-highlight-code-line {
   background-color: rgb(72, 77, 91);
   display: block;
   margin: 0 calc(-1 * var(--ifm-pre-padding));
   padding: 0 var(--ifm-pre-padding);
+}
+
+.discordLogo {
+  height: 20px;
+  width: 30px;
+  margin: 0 8px -3px 0;
+}
+
+.discordButton {
+  color: #fff;
+}
+
+html[data-theme="light"] .discordLogo path {
+  fill: #fff;
+}
+
+html[data-theme="dark"] .discordLogo path {
+  fill: #000;
 }
 
 .hero__logo {

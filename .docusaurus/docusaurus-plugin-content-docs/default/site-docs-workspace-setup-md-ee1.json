@@ -7,11 +7,11 @@
   "source": "@site/docs/workspace-setup.md",
   "slug": "/",
   "permalink": "/docs/",
-  "editUrl": "https://github.com/EliasRut/Vector-Monkeys-Coding-Dojo/edit/master/website/docs/workspace-setup.md",
+  "editUrl": "https://github.com/EliasRut/vmcd-docusaurs/edit/master/website/docs/workspace-setup.md",
   "version": "current",
   "sidebar": "docs",
   "next": {
-    "title": "Step by Step Guide",
-    "permalink": "/docs/step-by-step-guide"
+    "title": "Step by Step Setup Guide",
+    "permalink": "/docs/step-by-step-setup-guide"
   }
 }

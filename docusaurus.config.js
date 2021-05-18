@@ -8,14 +8,14 @@ module.exports = {
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'EliasRut', // Usually your GitHub org/user name.
-  projectName: 'Vector-Monkeys-Coding-Dojo', // Usually your repo name.
+  projectName: 'vmcd-docusaurs', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'Home',
       logo: {
         alt: 'Vector Monkey Head',
         src: 'img/vectormonkey_black.png',
-        srcDark: 'img/vectormonkey_white.png',
+        srcDark: 'img/vectormonkey_white.png'
       },
       items: [
         {to: 'mission-statement/', label: 'Mission Statement', position: 'left'},
@@ -56,7 +56,7 @@ module.exports = {
           items: [
             {
               label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              href: 'https://discord.gg/8VsPfKu8UY',
             },
           ],
         },
@@ -88,13 +88,13 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/EliasRut/Vector-Monkeys-Coding-Dojo/edit/master/website/',
+            'https://github.com/EliasRut/vmcd-docusaurs/edit/master/website/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/EliasRut/Vector-Monkeys-Coding-Dojo/edit/master/website/blog/',
+            'https://github.com/EliasRut/vmcd-docusaurs/edit/master/website/blog/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
