@@ -280,6 +280,30 @@
     "default": {
       "blogPosts": [
         {
+          "id": "Endless Dungeon Series - Meet the Player Character",
+          "metadata": {
+            "permalink": "/blog/2021/05/20/endless-dungeon-player-cha",
+            "editUrl": "https://github.com/EliasRut/vmcd-docusaurs/edit/master/website/blog/blog/2021-05-20-endless-dungeon-player-cha.md",
+            "source": "@site/blog/2021-05-20-endless-dungeon-player-cha.md",
+            "description": "Hi and welcome,",
+            "date": "2021-05-20T00:00:00.000Z",
+            "formattedDate": "May 20, 2021",
+            "tags": [
+              {
+                "label": "Endless Dungeon",
+                "permalink": "/blog/tags/endless-dungeon"
+              }
+            ],
+            "title": "Endless Dungeon Series - Meet the Player Character",
+            "readingTime": 1.715,
+            "truncated": false,
+            "nextItem": {
+              "title": "Endless Dungeon Series - Meet the Game Characters",
+              "permalink": "/blog/2021/05/19/endless-dungeon-description"
+            }
+          }
+        },
+        {
           "id": "Endless Dungeon Series - Meet the Game Characters",
           "metadata": {
             "permalink": "/blog/2021/05/19/endless-dungeon-description",
@@ -297,33 +321,9 @@
             "title": "Endless Dungeon Series - Meet the Game Characters",
             "readingTime": 0.77,
             "truncated": false,
-            "nextItem": {
-              "title": "Endless Dungeon Series - Meet the Player Character",
-              "permalink": "/blog/2021/05/19/endless-dungeon-player-cha"
-            }
-          }
-        },
-        {
-          "id": "Endless Dungeon Series - Meet the Player Character",
-          "metadata": {
-            "permalink": "/blog/2021/05/19/endless-dungeon-player-cha",
-            "editUrl": "https://github.com/EliasRut/vmcd-docusaurs/edit/master/website/blog/blog/2021-05-19-endless-dungeon-player-cha.md",
-            "source": "@site/blog/2021-05-19-endless-dungeon-player-cha.md",
-            "description": "Hi, today I have to honor of presenting the Player character of our currently in development game",
-            "date": "2021-05-19T00:00:00.000Z",
-            "formattedDate": "May 19, 2021",
-            "tags": [
-              {
-                "label": "Endless Dungeon",
-                "permalink": "/blog/tags/endless-dungeon"
-              }
-            ],
-            "title": "Endless Dungeon Series - Meet the Player Character",
-            "readingTime": 1.505,
-            "truncated": false,
             "prevItem": {
-              "title": "Endless Dungeon Series - Meet the Game Characters",
-              "permalink": "/blog/2021/05/19/endless-dungeon-description"
+              "title": "Endless Dungeon Series - Meet the Player Character",
+              "permalink": "/blog/2021/05/20/endless-dungeon-player-cha"
             },
             "nextItem": {
               "title": "Deep Dive Series - The other basic SE skills",
@@ -350,8 +350,8 @@
             "readingTime": 1.06,
             "truncated": false,
             "prevItem": {
-              "title": "Endless Dungeon Series - Meet the Player Character",
-              "permalink": "/blog/2021/05/19/endless-dungeon-player-cha"
+              "title": "Endless Dungeon Series - Meet the Game Characters",
+              "permalink": "/blog/2021/05/19/endless-dungeon-description"
             }
           }
         }
@@ -370,8 +370,8 @@
             "blogTitle": "Blog"
           },
           "items": [
-            "Endless Dungeon Series - Meet the Game Characters",
             "Endless Dungeon Series - Meet the Player Character",
+            "Endless Dungeon Series - Meet the Game Characters",
             "Deep Dive Series - The other basic SE skills"
           ]
         }
@@ -380,8 +380,8 @@
         "endless-dungeon": {
           "name": "endless dungeon",
           "items": [
-            "Endless Dungeon Series - Meet the Game Characters",
-            "Endless Dungeon Series - Meet the Player Character"
+            "Endless Dungeon Series - Meet the Player Character",
+            "Endless Dungeon Series - Meet the Game Characters"
           ],
           "permalink": "/blog/tags/endless-dungeon"
         },

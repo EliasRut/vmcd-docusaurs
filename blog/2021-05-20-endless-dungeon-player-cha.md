@@ -7,10 +7,17 @@ author_image_url: https://avatars.githubusercontent.com/u/40342437
 tags: [Endless Dungeon]
 ---
 
-Hi, today I have to honor of presenting the Player character of our currently in development game
-Endless Dungeon.
+Hi and welcome,
 
-![Player character avatar](../static/img/player-character-happy.png)
+today I have to honor of presenting the Player character of our currently in development game
+**Endless Dungeon** to you. This is the second of several blog post of the ongoing series 
+*Meet the Game Characters*. For more info check out [this blog post](/blog/2021/05/19/endless-dungeon-description "Endless Dungeon Series - Meet the Game Characters").
+
+<center>
+  <img src="https://www.vectormonkeys.com/static/img/player-character.gif" />
+</center>
+
+Designer: [Daniel](https://twitter.com/VintalValentin/status/1312459523521540097?s=20 "Twitter page")
 
 ***
 

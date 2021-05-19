@@ -15,7 +15,7 @@ talk included ;)
 
 I decided on a short story format that describes a small panning from the life of each character, 
 together with the presentation of the character's avatar, designed by our awesome designer **Daniel**. 
-For more great Pixel Art, check out his [Twitter account](https://twitter.com/VintalValentin/status/1312459523521540097?s=20 "Player Character Running")
+For more great Pixel Art, check out his [Twitter account](https://twitter.com/VintalValentin "Twitter account Daniel")
  or get a taste of gameplay music and visit his band [Furious Feedback](https://www.facebook.com/furiousfeedback/ "Furious Feedback") on Facebook.
 
  And if you are interested in Endless Dungeon's current state of the story telling, check out our 
