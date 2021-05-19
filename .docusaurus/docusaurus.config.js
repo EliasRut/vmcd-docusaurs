@@ -201,7 +201,7 @@ export default {
       "@docusaurus/preset-classic",
       {
         "docs": {
-          "sidebarPath": "/home/elias/Code/vmcd-docusaurus/sidebars.js",
+          "sidebarPath": "/home/ella/Code/vmcd-docusaurs/sidebars.js",
           "editUrl": "https://github.com/EliasRut/vmcd-docusaurs/edit/master/website/"
         },
         "blog": {
@@ -209,7 +209,7 @@ export default {
           "editUrl": "https://github.com/EliasRut/vmcd-docusaurs/edit/master/website/blog/"
         },
         "theme": {
-          "customCss": "/home/elias/Code/vmcd-docusaurus/src/css/custom.css"
+          "customCss": "/home/ella/Code/vmcd-docusaurs/src/css/custom.css"
         }
       }
     ]

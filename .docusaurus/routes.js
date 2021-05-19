@@ -44,22 +44,37 @@ export default [
 },
 {
   path: '/blog',
-  component: ComponentCreator('/blog','194'),
+  component: ComponentCreator('/blog','c21'),
   exact: true,
 },
 {
   path: '/blog/2021/05/16/running-deep-dives',
-  component: ComponentCreator('/blog/2021/05/16/running-deep-dives','e1c'),
+  component: ComponentCreator('/blog/2021/05/16/running-deep-dives','4ed'),
+  exact: true,
+},
+{
+  path: '/blog/2021/05/19/endless-dungeon-description',
+  component: ComponentCreator('/blog/2021/05/19/endless-dungeon-description','6ca'),
+  exact: true,
+},
+{
+  path: '/blog/2021/05/19/endless-dungeon-player-cha',
+  component: ComponentCreator('/blog/2021/05/19/endless-dungeon-player-cha','7bf'),
   exact: true,
 },
 {
   path: '/blog/tags',
-  component: ComponentCreator('/blog/tags','7e7'),
+  component: ComponentCreator('/blog/tags','ed5'),
   exact: true,
 },
 {
   path: '/blog/tags/deep-dive',
-  component: ComponentCreator('/blog/tags/deep-dive','449'),
+  component: ComponentCreator('/blog/tags/deep-dive','191'),
+  exact: true,
+},
+{
+  path: '/blog/tags/endless-dungeon',
+  component: ComponentCreator('/blog/tags/endless-dungeon','a14'),
   exact: true,
 },
 {

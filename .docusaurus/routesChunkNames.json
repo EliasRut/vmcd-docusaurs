@@ -25,35 +25,64 @@
   "/__docusaurus/debug/routes-244": {
     "component": "component---theme-debug-routes-946-699"
   },
-  "/blog-194": {
+  "/blog-c21": {
     "component": "component---theme-blog-list-pagea-6-a-7ba",
-    "sidebar": "sidebar---blogb-4-d-c24",
+    "sidebar": "sidebar---bloged-0-fac",
     "items": [
+      {
+        "content": "content---blogbd-9-448"
+      },
+      {
+        "content": "content---blogee-0-d18"
+      },
       {
         "content": "content---blog-9-b-6-266"
       }
     ],
     "metadata": "metadata---blogb-2-b-df1"
   },
-  "/blog/2021/05/16/running-deep-dives-e1c": {
+  "/blog/2021/05/16/running-deep-dives-4ed": {
     "component": "component---theme-blog-post-pageccc-cab",
-    "sidebar": "sidebar---blogb-4-d-c24",
-    "content": "content---blog-hola-581-4a8"
+    "sidebar": "sidebar---bloged-0-fac",
+    "content": "content---blog-2021-05-16-running-deep-dives-581-03b"
   },
-  "/blog/tags-7e7": {
+  "/blog/2021/05/19/endless-dungeon-description-6ca": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---bloged-0-fac",
+    "content": "content---blog-2021-05-19-endless-dungeon-description-149-3ee"
+  },
+  "/blog/2021/05/19/endless-dungeon-player-cha-7bf": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---bloged-0-fac",
+    "content": "content---blog-2021-05-19-endless-dungeon-player-chab-4-f-e64"
+  },
+  "/blog/tags-ed5": {
     "component": "component---theme-blog-tags-list-page-01-a-d0b",
-    "sidebar": "sidebar---blogb-4-d-c24",
+    "sidebar": "sidebar---bloged-0-fac",
     "tags": "tags---blog-tagsa-70-da2"
   },
-  "/blog/tags/deep-dive-449": {
+  "/blog/tags/deep-dive-191": {
     "component": "component---theme-blog-tags-posts-page-687-b6c",
-    "sidebar": "sidebar---blogb-4-d-c24",
+    "sidebar": "sidebar---bloged-0-fac",
     "items": [
       {
         "content": "content---blog-9-b-6-266"
       }
     ],
     "metadata": "metadata---blog-tags-deep-divea-40-2dc"
+  },
+  "/blog/tags/endless-dungeon-a14": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---bloged-0-fac",
+    "items": [
+      {
+        "content": "content---blogbd-9-448"
+      },
+      {
+        "content": "content---blogee-0-d18"
+      }
+    ],
+    "metadata": "metadata---blog-tags-endless-dungeon-41-c-3f5"
   },
   "/impressum-e2a": {
     "component": "component---theme-mdx-page-1-f-3-b90",

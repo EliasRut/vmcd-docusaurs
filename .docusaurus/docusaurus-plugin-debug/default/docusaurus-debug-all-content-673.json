@@ -10,9 +10,9 @@
           "versionEditUrlLocalized": "https://github.com/EliasRut/vmcd-docusaurs/edit/master/website/i18n/en/docusaurus-plugin-content-docs/current",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "/home/elias/Code/vmcd-docusaurus/sidebars.js",
-          "contentPath": "/home/elias/Code/vmcd-docusaurus/docs",
-          "contentPathLocalized": "/home/elias/Code/vmcd-docusaurus/i18n/en/docusaurus-plugin-content-docs/current",
+          "sidebarFilePath": "/home/ella/Code/vmcd-docusaurs/sidebars.js",
+          "contentPath": "/home/ella/Code/vmcd-docusaurs/docs",
+          "contentPathLocalized": "/home/ella/Code/vmcd-docusaurs/i18n/en/docusaurus-plugin-content-docs/current",
           "mainDocId": "workspace-setup",
           "sidebars": {
             "docs": [
@@ -280,6 +280,58 @@
     "default": {
       "blogPosts": [
         {
+          "id": "Endless Dungeon Series - Meet the Game Characters",
+          "metadata": {
+            "permalink": "/blog/2021/05/19/endless-dungeon-description",
+            "editUrl": "https://github.com/EliasRut/vmcd-docusaurs/edit/master/website/blog/blog/2021-05-19-endless-dungeon-description.md",
+            "source": "@site/blog/2021-05-19-endless-dungeon-description.md",
+            "description": "Our currently ongoing team project is a pixel art RPG game called Endless Dungeon, which we",
+            "date": "2021-05-19T00:00:00.000Z",
+            "formattedDate": "May 19, 2021",
+            "tags": [
+              {
+                "label": "Endless Dungeon",
+                "permalink": "/blog/tags/endless-dungeon"
+              }
+            ],
+            "title": "Endless Dungeon Series - Meet the Game Characters",
+            "readingTime": 0.77,
+            "truncated": false,
+            "nextItem": {
+              "title": "Endless Dungeon Series - Meet the Player Character",
+              "permalink": "/blog/2021/05/19/endless-dungeon-player-cha"
+            }
+          }
+        },
+        {
+          "id": "Endless Dungeon Series - Meet the Player Character",
+          "metadata": {
+            "permalink": "/blog/2021/05/19/endless-dungeon-player-cha",
+            "editUrl": "https://github.com/EliasRut/vmcd-docusaurs/edit/master/website/blog/blog/2021-05-19-endless-dungeon-player-cha.md",
+            "source": "@site/blog/2021-05-19-endless-dungeon-player-cha.md",
+            "description": "Hi, today I have to honor of presenting the Player character of our currently in development game",
+            "date": "2021-05-19T00:00:00.000Z",
+            "formattedDate": "May 19, 2021",
+            "tags": [
+              {
+                "label": "Endless Dungeon",
+                "permalink": "/blog/tags/endless-dungeon"
+              }
+            ],
+            "title": "Endless Dungeon Series - Meet the Player Character",
+            "readingTime": 1.505,
+            "truncated": false,
+            "prevItem": {
+              "title": "Endless Dungeon Series - Meet the Game Characters",
+              "permalink": "/blog/2021/05/19/endless-dungeon-description"
+            },
+            "nextItem": {
+              "title": "Deep Dive Series - The other basic SE skills",
+              "permalink": "/blog/2021/05/16/running-deep-dives"
+            }
+          }
+        },
+        {
           "id": "Deep Dive Series - The other basic SE skills",
           "metadata": {
             "permalink": "/blog/2021/05/16/running-deep-dives",
@@ -296,7 +348,11 @@
             ],
             "title": "Deep Dive Series - The other basic SE skills",
             "readingTime": 1.06,
-            "truncated": false
+            "truncated": false,
+            "prevItem": {
+              "title": "Endless Dungeon Series - Meet the Player Character",
+              "permalink": "/blog/2021/05/19/endless-dungeon-player-cha"
+            }
           }
         }
       ],
@@ -307,18 +363,28 @@
             "page": 1,
             "postsPerPage": 10,
             "totalPages": 1,
-            "totalCount": 1,
+            "totalCount": 3,
             "previousPage": null,
             "nextPage": null,
             "blogDescription": "Blog",
             "blogTitle": "Blog"
           },
           "items": [
+            "Endless Dungeon Series - Meet the Game Characters",
+            "Endless Dungeon Series - Meet the Player Character",
             "Deep Dive Series - The other basic SE skills"
           ]
         }
       ],
       "blogTags": {
+        "endless-dungeon": {
+          "name": "endless dungeon",
+          "items": [
+            "Endless Dungeon Series - Meet the Game Characters",
+            "Endless Dungeon Series - Meet the Player Character"
+          ],
+          "permalink": "/blog/tags/endless-dungeon"
+        },
         "deep-dive": {
           "name": "deep dive",
           "items": [

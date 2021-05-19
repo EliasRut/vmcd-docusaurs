@@ -87,4 +87,4 @@ and show the subsystem trace for the next main system to fix, the life support:
 This is the end of the bridge control lesson. The next lesson deals with **variables**, 
 **operators** and **function parameters**.
 
-[Chapter 2, life support](LIFE_SUPPORT "Chapter 2 - Life support").
+[Chapter 2, life support](/docs/distant-stars-life-support "Chapter 2 - Life support").

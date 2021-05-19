@@ -1,4 +1,11 @@
 {
+  "endless-dungeon": {
+    "allTagsPath": "/blog/tags",
+    "slug": "endless-dungeon",
+    "name": "endless dungeon",
+    "count": 2,
+    "permalink": "/blog/tags/endless-dungeon"
+  },
   "deep-dive": {
     "allTagsPath": "/blog/tags",
     "slug": "deep-dive",
