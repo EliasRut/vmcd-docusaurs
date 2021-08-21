@@ -201,12 +201,10 @@ export default {
       "@docusaurus/preset-classic",
       {
         "docs": {
-          "sidebarPath": "/home/ella/Code/vmcd-docusaurs/sidebars.js",
-          "editUrl": "https://github.com/EliasRut/vmcd-docusaurs/edit/master/website/"
+          "sidebarPath": "/home/ella/Code/vmcd-docusaurs/sidebars.js"
         },
         "blog": {
-          "showReadingTime": true,
-          "editUrl": "https://github.com/EliasRut/vmcd-docusaurs/edit/master/website/blog/"
+          "showReadingTime": true
         },
         "theme": {
           "customCss": "/home/ella/Code/vmcd-docusaurs/src/css/custom.css"

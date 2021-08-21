@@ -44,7 +44,7 @@ export default [
 },
 {
   path: '/blog',
-  component: ComponentCreator('/blog','c73'),
+  component: ComponentCreator('/blog','bd6'),
   exact: true,
 },
 {
@@ -58,8 +58,8 @@ export default [
   exact: true,
 },
 {
-  path: '/blog/2021/05/20/endless-dungeon-player-cha',
-  component: ComponentCreator('/blog/2021/05/20/endless-dungeon-player-cha','d23'),
+  path: '/blog/2021/08/21/endless-dungeon-player-cha',
+  component: ComponentCreator('/blog/2021/08/21/endless-dungeon-player-cha','697'),
   exact: true,
 },
 {
@@ -74,7 +74,7 @@ export default [
 },
 {
   path: '/blog/tags/endless-dungeon',
-  component: ComponentCreator('/blog/tags/endless-dungeon','548'),
+  component: ComponentCreator('/blog/tags/endless-dungeon','7c2'),
   exact: true,
 },
 {

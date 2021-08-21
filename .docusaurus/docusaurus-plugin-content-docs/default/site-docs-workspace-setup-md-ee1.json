@@ -7,7 +7,6 @@
   "source": "@site/docs/workspace-setup.md",
   "slug": "/",
   "permalink": "/docs/",
-  "editUrl": "https://github.com/EliasRut/vmcd-docusaurs/edit/master/website/docs/workspace-setup.md",
   "version": "current",
   "sidebar": "docs",
   "next": {

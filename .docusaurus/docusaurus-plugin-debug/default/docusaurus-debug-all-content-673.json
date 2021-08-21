@@ -6,8 +6,6 @@
           "versionName": "current",
           "versionLabel": "Next",
           "versionPath": "/docs",
-          "versionEditUrl": "https://github.com/EliasRut/vmcd-docusaurs/edit/master/website/docs",
-          "versionEditUrlLocalized": "https://github.com/EliasRut/vmcd-docusaurs/edit/master/website/i18n/en/docusaurus-plugin-content-docs/current",
           "isLast": true,
           "routePriority": -1,
           "sidebarFilePath": "/home/ella/Code/vmcd-docusaurs/sidebars.js",
@@ -84,7 +82,6 @@
               "source": "@site/docs/distant-stars-bridge-control.md",
               "slug": "/distant-stars-bridge-control",
               "permalink": "/docs/distant-stars-bridge-control",
-              "editUrl": "https://github.com/EliasRut/vmcd-docusaurs/edit/master/website/docs/distant-stars-bridge-control.md",
               "version": "current",
               "sidebar": "docs",
               "previous": {
@@ -105,7 +102,6 @@
               "source": "@site/docs/distant-stars-introduction.md",
               "slug": "/distant-stars-introduction",
               "permalink": "/docs/distant-stars-introduction",
-              "editUrl": "https://github.com/EliasRut/vmcd-docusaurs/edit/master/website/docs/distant-stars-introduction.md",
               "version": "current",
               "sidebar": "docs",
               "previous": {
@@ -126,7 +122,6 @@
               "source": "@site/docs/distant-stars-life-support.md",
               "slug": "/distant-stars-life-support",
               "permalink": "/docs/distant-stars-life-support",
-              "editUrl": "https://github.com/EliasRut/vmcd-docusaurs/edit/master/website/docs/distant-stars-life-support.md",
               "version": "current",
               "sidebar": "docs",
               "previous": {
@@ -147,7 +142,6 @@
               "source": "@site/docs/distant-stars-main-reactor.md",
               "slug": "/distant-stars-main-reactor",
               "permalink": "/docs/distant-stars-main-reactor",
-              "editUrl": "https://github.com/EliasRut/vmcd-docusaurs/edit/master/website/docs/distant-stars-main-reactor.md",
               "version": "current",
               "sidebar": "docs",
               "previous": {
@@ -164,7 +158,6 @@
               "source": "@site/docs/distant-stars-story.md",
               "slug": "/distant-stars-story",
               "permalink": "/docs/distant-stars-story",
-              "editUrl": "https://github.com/EliasRut/vmcd-docusaurs/edit/master/website/docs/distant-stars-story.md",
               "version": "current",
               "sidebar": "docs",
               "previous": {
@@ -185,7 +178,6 @@
               "source": "@site/docs/javascript-basics.mdx",
               "slug": "/javascript-basics",
               "permalink": "/docs/javascript-basics",
-              "editUrl": "https://github.com/EliasRut/vmcd-docusaurs/edit/master/website/docs/javascript-basics.mdx",
               "version": "current",
               "sidebar": "docs",
               "previous": {
@@ -206,7 +198,6 @@
               "source": "@site/docs/markdown-features.mdx",
               "slug": "/markdown-features",
               "permalink": "/docs/markdown-features",
-              "editUrl": "https://github.com/EliasRut/vmcd-docusaurs/edit/master/website/docs/markdown-features.mdx",
               "version": "current"
             },
             {
@@ -218,7 +209,6 @@
               "source": "@site/docs/next-steps.md",
               "slug": "/next-steps",
               "permalink": "/docs/next-steps",
-              "editUrl": "https://github.com/EliasRut/vmcd-docusaurs/edit/master/website/docs/next-steps.md",
               "version": "current"
             },
             {
@@ -230,7 +220,6 @@
               "source": "@site/docs/step-by-step-setup-guide.md",
               "slug": "/step-by-step-setup-guide",
               "permalink": "/docs/step-by-step-setup-guide",
-              "editUrl": "https://github.com/EliasRut/vmcd-docusaurs/edit/master/website/docs/step-by-step-setup-guide.md",
               "version": "current",
               "sidebar": "docs",
               "previous": {
@@ -251,7 +240,6 @@
               "source": "@site/docs/webdesign-basics.md",
               "slug": "/webdesign-basics",
               "permalink": "/docs/webdesign-basics",
-              "editUrl": "https://github.com/EliasRut/vmcd-docusaurs/edit/master/website/docs/webdesign-basics.md",
               "version": "current"
             },
             {
@@ -263,7 +251,6 @@
               "source": "@site/docs/workspace-setup.md",
               "slug": "/",
               "permalink": "/docs/",
-              "editUrl": "https://github.com/EliasRut/vmcd-docusaurs/edit/master/website/docs/workspace-setup.md",
               "version": "current",
               "sidebar": "docs",
               "next": {
@@ -282,12 +269,11 @@
         {
           "id": "Endless Dungeon Series - Meet the Player Character",
           "metadata": {
-            "permalink": "/blog/2021/05/20/endless-dungeon-player-cha",
-            "editUrl": "https://github.com/EliasRut/vmcd-docusaurs/edit/master/website/blog/blog/2021-05-20-endless-dungeon-player-cha.md",
-            "source": "@site/blog/2021-05-20-endless-dungeon-player-cha.md",
+            "permalink": "/blog/2021/08/21/endless-dungeon-player-cha",
+            "source": "@site/blog/2021-08-21-endless-dungeon-player-cha.md",
             "description": "Hi and welcome,",
-            "date": "2021-05-20T00:00:00.000Z",
-            "formattedDate": "May 20, 2021",
+            "date": "2021-08-21T00:00:00.000Z",
+            "formattedDate": "August 21, 2021",
             "tags": [
               {
                 "label": "Endless Dungeon",
@@ -295,7 +281,7 @@
               }
             ],
             "title": "Endless Dungeon Series - Meet the Player Character",
-            "readingTime": 1.715,
+            "readingTime": 1.81,
             "truncated": false,
             "nextItem": {
               "title": "Endless Dungeon Series - Meet the Game Characters",
@@ -307,7 +293,6 @@
           "id": "Endless Dungeon Series - Meet the Game Characters",
           "metadata": {
             "permalink": "/blog/2021/05/19/endless-dungeon-description",
-            "editUrl": "https://github.com/EliasRut/vmcd-docusaurs/edit/master/website/blog/blog/2021-05-19-endless-dungeon-description.md",
             "source": "@site/blog/2021-05-19-endless-dungeon-description.md",
             "description": "Our currently ongoing team project is a pixel art RPG game called Endless Dungeon, which we",
             "date": "2021-05-19T00:00:00.000Z",
@@ -323,7 +308,7 @@
             "truncated": false,
             "prevItem": {
               "title": "Endless Dungeon Series - Meet the Player Character",
-              "permalink": "/blog/2021/05/20/endless-dungeon-player-cha"
+              "permalink": "/blog/2021/08/21/endless-dungeon-player-cha"
             },
             "nextItem": {
               "title": "Deep Dive Series - The other basic SE skills",
@@ -335,7 +320,6 @@
           "id": "Deep Dive Series - The other basic SE skills",
           "metadata": {
             "permalink": "/blog/2021/05/16/running-deep-dives",
-            "editUrl": "https://github.com/EliasRut/vmcd-docusaurs/edit/master/website/blog/blog/2021-05-16-running-deep-dives.md",
             "source": "@site/blog/2021-05-16-running-deep-dives.md",
             "description": "For the last few months, we have held what we call a Deep Dive most Thursday evenings. With",
             "date": "2021-05-16T00:00:00.000Z",
